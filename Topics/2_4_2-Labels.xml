@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2025-08-07T16:35:28.837+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.2 Labels</title>
+  <body>
+    <header>
+      <para styleclass="Heading4" style="page-break-before:always;">标签</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-top:11px; margin-bottom:11px;"><image src="Labels_1.png" imagestyleclass="Default" scale="40.00%" width="385" height="632" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:8px;"><text style="font-size:11pt;">标签 B (18VS100C404-XX) - Y-行程 400</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:8px; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:11px; margin-bottom:11px;"><image src="Labels_2.png" imagestyleclass="Default" scale="80.00%" width="210" height="396" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:8px;">-注-</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; text-indent:-21px; margin-bottom:8px; margin-left:21px; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; text-indent:-21px; margin-bottom:8px; margin-left:21px;">根据型号和规格的不同，警告标签的位置和类型也有所不同（如上图所示）。</li>
+    </list>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="text-align:justify; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify;">在实际机床上确认警告标签。</li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

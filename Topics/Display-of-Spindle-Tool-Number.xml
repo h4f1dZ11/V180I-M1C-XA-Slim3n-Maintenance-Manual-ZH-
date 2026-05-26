@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" modified="2026-04-29T09:08:46.261Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>显示主轴刀具编号</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">显示主轴刀具编号</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Image Caption">&#32;</text><image src="Display of Spindle Tool Number.png" imagestyleclass="Default" scale="30.00%" width="367" height="41" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">该字段显示主轴刀具的具夹号。</para>
+  </body>
+</topic>

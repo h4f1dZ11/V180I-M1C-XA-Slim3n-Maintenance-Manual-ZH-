@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-29T13:47:58.132Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ATC 自动恢复</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">ATC 自动恢复</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">如果 ATC 进程中断，可通过 ATC 恢复功能自动恢复。</para>
+    <para styleclass="Normal" style="margin-bottom:10px;">在因断电导致 ATC 中断的情况下，执行以下步骤即可从中断中恢复。</para>
+    <para styleclass="Normal" style="margin-bottom:10px;">程序：</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">打开机床电源。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">警报信息 &quot;A156 ATC 循环被中断，在维护模式下使用 ATC 恢复功能恢复&quot; 生成。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">按下<text style="font-weight:bold;">[MENU]</text>。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">显示主菜单屏幕。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">按 ATC 图标。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">显示 ATC 维护屏幕。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">打开维护模式。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">打开 ATC 恢复。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">屏幕底行（输出线）显示信息 &quot;按一键启动进行 ATC 恢复&quot;。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:19px; margin-left:24px;">按下主操作面板上的<text style="font-weight:bold;"> [ONE TOUCH START]</text>开关。将自动调用并执行 ATC 恢复程序。 ATC 将进入待机状态（准备运行）。</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:10px;"><text style="font-size:10pt;">-注-</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:10px; font-family:Arial; font-size:10pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:10px;"><text style="font-size:10pt;">只有当 XYZ 轴在刀具更换位置的公差范围内时，自动恢复才会起作用。如果轴偏离了极限值，自动恢复功能将无法运行。</text></li>
+      <li styleclass="Normal"><text style="font-size:10pt;">当所有机构功能良好时，自动恢复操作才会起作用。例如，主轴夹紧/松开机构及其信号，座传感器等。</text></li>
+    </list>
+  </body>
+</topic>

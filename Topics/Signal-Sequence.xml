@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-14T15:40:38.343+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>信号序列</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">信号序列</para>
+    </header>
+    <para styleclass="Normal"><text style="font-weight:bold;">输出信号</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">MS5：主轴冷却器的启动信号</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Output Signal_chp9.png" imagestyleclass="Default" scale="17.00%" width="468" height="416" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal"><text style="font-weight:bold;">输入信号</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">TH5：向机床控制器发出主轴冷却器故障通知</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Input Signal_chp9.png" imagestyleclass="Default" scale="17.00%" width="610" height="224" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><table styleclass="Default" rowcount="3" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">信号名称</text></para>
+        </td>
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">地址</text></para>
+        </td>
+        <td style="width:60%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">说明</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS5</text></para>
+        </td>
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0000.1</text></para>
+        </td>
+        <td style="width:60%; height:25px;">
+          <para styleclass="Normal" style="margin-left:5px;"><text style="font-size:10pt;">主轴冷却器启动</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">TH5</text></para>
+        </td>
+        <td style="width:20%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X0005.4</text></para>
+        </td>
+        <td style="width:60%; height:25px;">
+          <para styleclass="Normal" style="margin-left:5px;"><text style="font-size:10pt;">主轴冷却器风扇过热报警</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

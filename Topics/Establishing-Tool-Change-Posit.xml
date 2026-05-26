@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-07T15:59:44.126+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>建立刀具更换位置（X 轴和 Y 轴）</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">建立刀具更换位置（X 轴和 Y 轴）</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-weight:bold;">操作程序</text></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">确认操作门已关闭。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 MDI 模式下通过命令 M558 对中间具夹（工具编号 13）进行索引。 </li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">设置 ATC 维护参数 K61.4=1，禁用 ATC。这将绕过一些联锁，帮助建立刀具更换位置。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">通过更改 NC 参数 N1320(Y) 0.2<text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text>215.2 来更改冲程限制。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">打开操作门。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">将环 [1] 安装在中间具夹（13 号工具）上。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在手柄模式下，将支架 [2] 夹在主轴头上。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在手柄模式下将主轴移动到 X -250 Y -215 Z 0。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在手柄模式下将主轴从 Z 0 缓慢移动到 Z-151。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">重复将轴 [3] 插入支架 [2] 和环 [1] （参照<text style="color:#0000ff;"> </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.4" target="_blank" style="color:#0000ff;">图 2.4</link>）。</li>
+    </list>
+    <list id="1" type="ol" listtype="lower-alpha" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:48px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:48px;">如果轴顺利插入，则 X 轴和 Y 轴位置正确。继续执行步骤 11。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:48px;">如果轴无法顺利插入，则 X 轴和 Y 轴未正确对齐。在手柄模式下稍微调整 X 轴和 Y 轴的位置，直到可以顺利插入轴。</li>
+    </list>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="11" styleclass="Normal" style="text-indent:-24px; margin-left:24px; line-height:1.50; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-left:24px; line-height:1.50;">该位置将是 XY 刀更换位置。</li>
+    </list>
+    <para styleclass="Normal" style="margin-top:10px;">如<link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.3" target="_blank" style="color:#0000ff;"> 图 2.3</link><text style="color:#0000ff;"> </text> 所示，在 ATC 维护屏幕中输入此值（需打开 ATC 维护模式）。</para>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px; line-height:1.50;"><image src="Fig 2.3  ATC Maintenance Screen Tool Change Position.png" imagestyleclass="Default" scale="55.00%" width="469" height="351" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><anchor id="Fig2.3" style="font-size:11pt;"></anchor><text style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;   ATC 维护屏幕刀具更换位置</text></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="12" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; page-break-before:always; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; page-break-before:always;">确定刀具更换位置后，将主轴移出 ATC 区域。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">从主轴头上取下刀架 [2]。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">从刀库中取出卡环 [1]（中心夹具）。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">回退 ATC 维护参数 K61.4 1<text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text>0。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">回退冲程限制参数 N1320(Y) 215.2<text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">® </text>0.2。</li>
+    </list>
+    <para styleclass="Normal">至此，建立刀具更换位置（X 轴和 Y 轴）程序完成。</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px; page-break-before:always;"><image src="Est Tool Change Pos.jpg" scale="30.00%" width="472" height="654" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><anchor id="Fig2.4" style="font-size:11pt;"></anchor><text style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;   建立刀具更换位置（X 轴和 Y 轴）</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:14px;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">数量</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">名称</text></para>
+        </td>
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">数量</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">名称</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">环形</text></para>
+        </td>
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">轴</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">支架</text></para>
+        </td>
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:14px;"><text style="font-size:11pt; font-weight:bold;">ATC 校准工具</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:35%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">Makino 零件编号</text></para>
+        </td>
+        <td style="width:45%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">说明</text></para>
+        </td>
+        <td style="width:20%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">数量</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:35%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">MTV18-318-B</text></para>
+        </td>
+        <td style="width:45%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">HSK-A50 测量环</text></para>
+        </td>
+        <td style="width:20%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:35%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">MTV18-318-A</text></para>
+        </td>
+        <td style="width:45%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">HSK-A50 校准支架</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:20%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:45%;">
+          <para styleclass="Table_E" style="margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">HSK-A50 校准轴</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

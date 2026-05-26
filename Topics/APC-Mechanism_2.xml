@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-14T11:49:54.405+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>APC 机制</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">APC 机制</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption"> </text><image src="APC Mechanism_chp7.png" imagestyleclass="Default" scale="30.00%" width="586" height="564" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Table_E" style="margin-bottom:11px;"><text style="font-size:11pt;">表  </text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER7=2%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER=1%&gt;</var><text style="font-size:11pt;">   </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">机床输入/输出信号表</text></para>
+    <para styleclass="Table_E"><table styleclass="Default" rowcount="9" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">地址</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">信号名称</text></para>
+        </td>
+        <td style="width:36%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt; font-weight:bold;">说明</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">LS100</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">X0022.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 限位开关 - 托盘下降</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">LS101</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">X0022.0</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 限位开关 - 托盘升降</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">LS102</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">X0022.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 限位开关 - 托盘逆时针</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">LS103</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">X0022.2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 限位开关 - 托盘顺时针</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">SL101A</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">Y0012.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 电磁阀 - 托盘逆时针</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">SL101B</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">Y0012.2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 电磁阀 - 托盘顺时针</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">SL100A</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">Y0012.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 电磁阀 - 托盘下降</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">SL100B</text></para>
+        </td>
+        <td style="width:15%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:3px; margin-bottom:3px;"><text style="font-size:10pt;">Y0012.0</text></para>
+        </td>
+        <td style="vertical-align:middle; width:36%;">
+          <para styleclass="Normal"><text style="font-size:10pt;"> 电磁阀 - 托盘升降</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

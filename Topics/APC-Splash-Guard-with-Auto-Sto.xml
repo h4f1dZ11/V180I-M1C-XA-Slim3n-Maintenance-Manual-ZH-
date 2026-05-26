@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-19T11:48:43.095+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>带自动储存库门的 APC 防溅板</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">带自动储存库门的 APC 防溅板</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="APC SG w Auto Stk Door.png" scale="30.00%" width="530" height="516" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER16=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;   </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">门锁（操作门） 4</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Table_E" style="margin-bottom:11px;"><text style="font-size:11pt;">表  </text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER</var><text styleclass="Normal" style="font-size:11pt;">16</text><var style="font-size:11pt;" translate="false">=4%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER%&gt;</var><text style="font-size:11pt;">   机床输入/输出信号表</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="12" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:25%; height:21px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">信号名称</text></para>
+        </td>
+        <td style="width:25%; height:21px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">地址</text></para>
+        </td>
+        <td style="width:37%; height:21px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">说明</text></para>
+        </td>
+        <td style="width:25%; height:21px; background-color:#dddddd;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt; font-weight:bold;">备注</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SL1632</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0002.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门开锁</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">LS912</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">X0009.6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">前门关闭</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SGDOPS</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">X0006.5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门解锁按钮开关</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SGOP</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0003.2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">电磁阀操作门开口 OK</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">操作门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SL914</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0009.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">存车门解锁</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">LS1664</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">X0010.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">APC 储存库门关闭</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">LS1648L</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">X0022.7</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">APC 储存库门左开口</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">LS1648R</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">X0022.6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">APC 储存库门右开口</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SL132A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0008.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">自动门关闭</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">SL132B</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0008.0</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">自动门开口</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">STKOP</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:9pt;">Y0009.6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:37%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">APC 操作门 OK</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;"><text style="font-size:9pt;">斯托克门</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-weight:bold;">操作顺序</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="APC SG Op Sequence 1.png" scale="30.00%" width="605" height="633" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

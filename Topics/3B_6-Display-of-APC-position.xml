@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-30T09:37:53.468+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>3B.6 显示 APC 位置</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">3B.6 显示 APC 位置</para>
+    </header>
+    <para styleclass="Normal"><image src="3B.6 Display of APC position.png" imagestyleclass="Default" scale="32.00%" width="402" height="25" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">ATC 刀库电机机床坐标系 (MCS) 实际值显示。</para>
+  </body>
+</topic>

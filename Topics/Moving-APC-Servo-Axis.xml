@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-30T09:18:26.864+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>3B.7 移动 APC 伺服轴</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">3B.7 移动 APC 伺服轴</para>
+    </header>
+    <para styleclass="Normal">通过该装置，可以在不同模式下旋转弹夹，以进行校准或将弹夹恢复到主页位置。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><image src="Moving APC Servo Axis.png" scale="30.00%" width="420" height="492" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">与杂志轴运动有关的项目：</para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">打开维护模式。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">使用<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¬</text><text style="font-weight:bold;">]</text>或<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">®</text><text style="font-weight:bold;">]</text>光标键选择刀库移动模式 REF/INCH/JOG。所选模式将以黄色背景高亮显示。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">使用<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¬</text><text style="font-weight:bold;">]</text>或<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">®</text><text style="font-weight:bold;">]</text>光标键选择刀库需要旋转 100% / 50% / 25% / 0% 的进给量。选定的进给量将以黄色背景高亮显示。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在英寸模式下，通过在英寸数据上输入英寸数据来选择英寸距离。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">按照步骤 1) 至 4) 移动料库轴后，按操作面板上的<text style="font-weight:bold;">[+]</text>键顺时针移动或按<text style="font-weight:bold;">[-]</text>软键逆时针移动。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">轴的实际移动情况可通过此屏幕上的 APC 位置显示进行观察。</li>
+    </list>
+    <para styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">下面将解释移动库轴的每种模式。</para>
+  </body>
+</topic>

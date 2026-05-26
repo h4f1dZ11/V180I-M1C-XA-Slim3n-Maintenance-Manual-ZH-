@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-29T13:56:58.371Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>APC 维护屏幕</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">APC 维护屏幕</para>
+    </header>
+    <para styleclass="Normal">APC 有两种类型：</para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="upper-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;">气动驱动</li>
+      <li styleclass="Normal">伺服-M 驱动</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">根据 APC 类型，在机床上应用正确的 APC 维护屏幕，<text style="font-weight:bold;">3A - 气动驱动 </text>或 <text style="font-weight:bold;">3B - 伺服-M 驱动</text>。</para>
+  </body>
+</topic>

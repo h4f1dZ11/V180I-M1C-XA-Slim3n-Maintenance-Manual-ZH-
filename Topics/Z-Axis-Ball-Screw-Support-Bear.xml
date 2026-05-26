@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-05T11:35:26.191+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Z 轴滚珠丝杠支撑轴承冷却器</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Z 轴滚珠丝杠支撑轴承冷却器</para>
+    </header>
+    <para styleclass="Normal">Z 轴滚珠丝杠支撑轴承的外壳由主轴冷却器的冷却液冷却，以最大限度地减少 Z 轴的热膨胀。(参照<link displaytype="text" defaultstyle="false" type="topiclink" href="Chapter-8-Spindle-Oil-Temperature-Controller" style="color:#0000ff;">主轴冷却器</link>）。</para>
+    <para styleclass="Normal" style="margin-bottom:10px; page-break-before:always;"></para>
+  </body>
+</topic>

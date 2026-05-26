@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="461626896131826" build="ALL" modified="2026-05-20T16:28:40.201Z" icon="2" href="Safety_2">
+    <caption translate="true">第1章  安全</caption>
+    <topicref type="topic" id="461628112007519" build="MECHANICAL" modified="2026-05-20T16:28:47.933Z" icon="0" href="1-Safety-Precautions_2">
+      <caption translate="true">安全注意事项</caption>
+      <topicref type="topic" id="461625125136757" build="ALL" modified="2026-05-20T16:28:52.159Z" icon="0" href="1_1-Operators-Checks_2">
+        <caption translate="true">操作员检查</caption>
+      </topicref>
+      <topicref type="topic" id="461626370364396" build="ALL" modified="2026-05-20T16:28:56.231Z" icon="0" href="1_2-Work-Environment-Checks_2">
+        <caption translate="true">工作环境检查</caption>
+      </topicref>
+      <topicref type="topic" id="461628054276857" build="ALL" modified="2026-05-20T16:29:01.003Z" icon="0" href="1_3-Precautions-for-Potential-_2">
+        <caption translate="true">潜在火灾危险注意事项</caption>
+      </topicref>
+      <topicref type="topic" id="461627631611849" build="ALL" modified="2026-05-20T16:29:05.672Z" icon="0" href="1_4-Confirmation-of-Machine-St_2">
+        <caption translate="true">机床状态确认</caption>
+      </topicref>
+      <topicref type="topic" id="461628588987373" build="ALL" modified="2026-05-20T16:29:10.724Z" icon="0" href="1_5-Pre-operation-Checks_2">
+        <caption translate="true">预运转检查</caption>
+      </topicref>
+      <topicref type="topic" id="461627311850440" build="ALL" modified="2026-05-20T16:29:15.713Z" icon="0" href="1_6-Implementing-Lock-out-and-_2">
+        <caption translate="true">执行锁止和挂标签程序</caption>
+      </topicref>
+      <topicref type="topic" id="461627774872509" build="ALL" modified="2026-05-20T16:29:20.698Z" icon="0" href="1_7-During-Work_2">
+        <caption translate="true">工作中</caption>
+      </topicref>
+      <topicref type="topic" id="461626463904417" build="ALL" modified="2026-05-20T16:29:26.162Z" icon="0" href="1_8-Handling-of-Hazardous-and-_2">
+        <caption translate="true">处理危险和有毒材料</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="461624962784458" build="MECHANICAL" modified="2026-05-20T16:29:30.464Z" icon="0" href="2-Warning-Labels_2">
+      <caption translate="true">警告标签</caption>
+      <topicref type="topic" id="461627236991932" build="ALL" modified="2026-05-20T16:29:35.113Z" icon="0" href="2_1-Signal-Word-Definitions_2">
+        <caption translate="true">信号词语定义</caption>
+      </topicref>
+      <topicref type="topic" id="461628764498391" build="ALL" modified="2026-05-20T16:29:38.802Z" icon="0" href="2_2-Using-Warning-Labels_2">
+        <caption translate="true">使用警告标签</caption>
+      </topicref>
+      <topicref type="topic" id="461625362099289" build="ALL" modified="2026-05-20T16:29:42.724Z" icon="0" href="2_3-Information-Contained-in-W_2">
+        <caption translate="true">警告标签上所含信息</caption>
+        <topicref type="topic" id="461627488585897" build="ALL" modified="2026-05-20T16:29:47.133Z" icon="0" href="2_3_1-Warning-Labels-with-Warn_2">
+          <caption translate="true">附有警告文字的警告标签</caption>
+        </topicref>
+        <topicref type="topic" id="461628931338625" build="ALL" modified="2026-05-20T16:29:51.511Z" icon="0" href="2_3_2-Warning-Labels-with-Warn_2">
+          <caption translate="true">附有警告标记的警告标签</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="461624814222182" build="ALL" modified="2026-05-20T16:29:56.197Z" icon="0" href="2_4-Warning-Labels-Locations_2">
+        <caption translate="true">警告标签位置</caption>
+        <topicref type="topic" id="461627162085965" build="ALL" modified="2026-05-20T16:30:01.062Z" icon="0" href="2_4_1-Warning-Labels-Locations_2">
+          <caption translate="true">标准机床上的警告标签位置</caption>
+        </topicref>
+        <topicref type="topic" id="461626180084651" build="ALL" modified="2026-05-20T16:30:05.615Z" icon="0" href="Warning-Labels-Locations-on-AP_2">
+          <caption translate="true">APC机床上警告标签的位置</caption>
+        </topicref>
+        <topicref type="topic" id="461627265145559" build="ALL" modified="2026-05-20T16:30:13.097Z" icon="0" href="2_4_2-Labels_2">
+          <caption translate="true">标签</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="461625610755868" build="MECHANICAL" modified="2026-05-20T16:30:17.158Z" icon="0" href="3-Safety-Devices_2">
+      <caption translate="true">安全装置</caption>
+      <topicref type="topic" id="461626247395069" build="ALL" modified="2026-05-20T16:30:21.101Z" icon="0" href="3_1-Emergency-Stop-Switch_2_2">
+        <caption translate="true">“紧急停止”开关</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="461626569811329" build="ALL" modified="2026-05-20T16:30:25.087Z" icon="0" href="4-Work-Hazards_2">
+      <caption translate="true">工作危险</caption>
+      <topicref type="topic" id="461624924233058" build="ALL" modified="2026-05-20T16:30:29.024Z" icon="0" href="4_1-Area-Surrounding-Machine_2">
+        <caption translate="true">机床周遭区域</caption>
+      </topicref>
+      <topicref type="topic" id="461628138697975" build="ELECTRICAL" modified="2026-05-20T16:30:32.849Z" icon="0" href="4_2-Electrical-System_2">
+        <caption translate="true">电气系统</caption>
+      </topicref>
+      <topicref type="topic" id="461627410280927" build="SOFTWARE" modified="2026-05-20T16:30:40.187Z" icon="0" href="4_3-Parameters_2">
+        <caption translate="true">参数</caption>
+      </topicref>
+      <topicref type="topic" id="461626008703056" build="ALL" modified="2026-05-20T16:30:45.472Z" icon="0" href="4_4-Inside-the-Machining-Chamb_2">
+        <caption translate="true">加工室内部</caption>
+      </topicref>
+      <topicref type="topic" id="461628046472468" build="ALL" modified="2026-05-20T16:30:49.463Z" icon="0" href="4_5-Tool-Magazine_2">
+        <caption translate="true">刀具库</caption>
+      </topicref>
+      <topicref type="topic" id="461626744876586" build="ALL" modified="2026-05-20T16:30:58.684Z" icon="0" href="4_6-Cutting-Fluid-Supply-Unit__2">
+        <caption translate="true">切削液供应装置/碎屑处理装置/切削液温度控制器</caption>
+      </topicref>
+      <topicref type="topic" id="461624727646831" build="ALL" modified="2026-05-20T16:31:02.871Z" icon="0" href="4_7-Spindle-Lubricant-Controll_2">
+        <caption translate="true">主轴润滑剂/进给轴温度控制器/液压装置</caption>
+      </topicref>
+      <topicref type="topic" id="461626180870610" build="ALL" modified="2026-05-20T16:31:06.939Z" icon="0" href="4_8-Pneumatic-Unit_2">
+        <caption translate="true">气动装置</caption>
+      </topicref>
+      <topicref type="topic" id="461626114080470" build="ALL" modified="2026-05-20T16:31:12.516Z" icon="0" href="4_9-Splash-Guard_2">
+        <caption translate="true">防溅护板</caption>
+      </topicref>
+      <topicref type="topic" id="461625631102108" build="ALL" modified="2026-05-20T16:31:17.270Z" icon="0" href="4_10-Other-Peripheral-Equipmen_2">
+        <caption translate="true">其他外围设备</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="461628410195025" build="ALL" modified="2026-05-20T16:31:27.894Z" icon="0" href="5-Occupational-Health-and-Safe_2">
+      <caption translate="true">职业健康和安全管理</caption>
+      <topicref type="topic" id="461625813822498" build="ALL" modified="2026-05-20T16:31:32.054Z" icon="0" href="5_1-Safety-Device-Inspection_2">
+        <caption translate="true">安全装置检查</caption>
+      </topicref>
+      <topicref type="topic" id="461626375208028" build="ALL" modified="2026-05-20T16:31:36.439Z" icon="0" href="5_2-Noise_2">
+        <caption translate="true">噪音</caption>
+      </topicref>
+      <topicref type="topic" id="461628048776866" build="ALL" modified="2026-05-20T16:31:53.044Z" icon="0" href="5_3-Personal-Protective-Equipm_2">
+        <caption translate="true">个人保护装置</caption>
+      </topicref>
+      <topicref type="topic" id="461627020417576" build="ALL" modified="2026-05-20T16:32:13.405Z" icon="0" href="5_4-Disposal-of-Waste-Products_2">
+        <caption translate="true">废产品的处理</caption>
+        <topicref type="topic" id="461628929501707" build="ALL" modified="2026-05-20T16:32:17.496Z" icon="0" href="5_4_1-Disposal-of-Waste-Oil_-W_2">
+          <caption translate="true">废油，废液和费材料的处理</caption>
+        </topicref>
+        <topicref type="topic" id="461626629420695" build="ALL" modified="2026-05-20T16:32:24.939Z" icon="0" href="5_4_2-Disposal-of-This-Machine_2">
+          <caption translate="true">本机床的处理</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432636229749642" build="ELECTRICAL,MECHANICAL" modified="2026-04-28T14:11:05.314Z" icon="0" href="Chapter-2-Safety-Devices">
+    <caption translate="true">第2章 器控制器</caption>
+    <topicref type="topic" id="432638852357829" build="ALL" modified="2026-04-28T15:49:31.473Z" icon="0" href="1-Overview-of-Machine-Controller">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442714556656124" build="ALL" modified="2026-04-29T09:21:38.726Z" icon="0" href="Component-Name">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442715419297498" build="ALL" modified="2021-03-16T15:16:42.574Z" icon="0" href="Professional-S">
+        <caption translate="true">Professional S</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442714811599242" build="ALL" modified="2026-04-28T15:51:15.169Z" icon="0" href="NC-Screen">
+      <caption translate="true">NC 屏幕</caption>
+      <topicref type="topic" id="442714913987956" build="ALL" modified="2026-04-28T15:51:49.771Z" icon="0" href="Switch-Between-NC-Screen-and-M">
+        <caption translate="true">在 NC 屏幕和 Makino 自定义屏幕之间切换</caption>
+      </topicref>
+      <topicref type="topic" id="442716352237604" build="ALL" modified="2026-04-28T16:01:49.489Z" icon="0" href="NC-Parameter-Screen-Display-an">
+        <caption translate="true">NC 参数屏幕显示和数据输入/修改</caption>
+      </topicref>
+      <topicref type="topic" id="442717307393204" build="ALL" modified="2026-04-28T16:03:55.979Z" icon="0" href="Ladder-Screen-Display-Procedur">
+        <caption translate="true">梯形图屏幕显示程序</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442716778753311" build="ALL" modified="2026-04-28T16:04:27.353Z" icon="0" href="Parameter_-Program-and-Data-In">
+      <caption translate="true">参数,程序和数据输入/输出程序</caption>
+      <topicref type="topic" id="442718487275995" build="ALL" modified="2026-04-29T08:20:42.243Z" icon="0" href="Machine-Data-Input-_-Output-Pr">
+        <caption translate="true">机床数据输入/输出程序</caption>
+      </topicref>
+      <topicref type="topic" id="44273233763399" build="ALL" modified="2026-04-29T08:24:33.361Z" icon="0" href="NC-Program-Input-_-Output-Proc">
+        <caption translate="true">NC 程序输入/输出程序</caption>
+      </topicref>
+      <topicref type="topic" id="442722275734712" build="ALL" modified="2026-04-29T08:37:45.048Z" icon="0" href="Operation-History-Backup">
+        <caption translate="true">操作历史备份</caption>
+      </topicref>
+      <topicref type="topic" id="442721486703370" build="ALL" modified="2026-04-29T09:03:18.684Z" icon="0" href="SRAM-Backup">
+        <caption translate="true">SRAM 备份</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432725178719695" build="MECHANICAL,SPINDLE" modified="2026-04-29T09:03:38.587Z" icon="0" href="Chapter-3-Machine-Maintenance">
+    <caption translate="true">第3章 机床维护</caption>
+    <topicref type="topic" id="442722183649480" build="ALL" modified="2026-04-29T09:04:37.201Z" icon="0" href="Maintenance-Screen">
+      <caption translate="true">维护屏幕</caption>
+    </topicref>
+    <topicref type="topic" id="442722970517807" build="ALL" modified="2026-04-29T09:05:08.406Z" icon="0" href="ATC-Maintenance-Screen">
+      <caption translate="true">ATC 维护屏幕</caption>
+      <topicref type="topic" id="442721843473451" build="ALL" modified="2026-05-07T15:58:57.455Z" icon="0" href="Route-Map">
+        <caption translate="true">路线图</caption>
+      </topicref>
+      <topicref type="topic" id="442722325123682" build="ALL" modified="2026-04-29T09:06:22.485Z" icon="0" href="Turning-Maintenance-Mode-ON-_-">
+        <caption translate="true">开启/关闭维护模式</caption>
+      </topicref>
+      <topicref type="topic" id="442725404778319" build="ALL" modified="2026-04-29T09:08:44.049Z" icon="0" href="Display-of-Spindle-Tool-Number">
+        <caption translate="true">显示主轴刀具编号</caption>
+      </topicref>
+      <topicref type="topic" id="442722065860906" build="ALL" modified="2026-04-29T09:09:27.241Z" icon="0" href="Display-of-Magazine-Index-Pot">
+        <caption translate="true">显示杂志索引具夹</caption>
+      </topicref>
+      <topicref type="topic" id="442723774446313" build="ALL" modified="2026-04-29T09:10:34.193Z" icon="0" href="Display-of-ATC-Position">
+        <caption translate="true">显示 ATC 位置</caption>
+      </topicref>
+      <topicref type="topic" id="44273560326226" build="ALL" modified="2026-04-29T09:14:27.910Z" icon="0" href="Moving-Magazine-Servo-Axis">
+        <caption translate="true">移动杂志伺服轴</caption>
+        <topicref type="topic" id="442723203152050" build="ALL" modified="2026-04-29T11:06:45.653Z" icon="0" href="Reference-Position-Return-Oper">
+          <caption translate="true">参照位置返回操作</caption>
+        </topicref>
+        <topicref type="topic" id="442725923572503" build="ALL" modified="2026-04-29T11:10:23.480Z" icon="0" href="Inching-Operation">
+          <caption translate="true">寸进操作</caption>
+        </topicref>
+        <topicref type="topic" id="442721885936284" build="ALL" modified="2026-04-29T11:17:44.606Z" icon="0" href="Jog-Operation">
+          <caption translate="true">点动操作</caption>
+        </topicref>
+        <topicref type="topic" id="442723936361239" build="ALL" modified="2026-04-29T11:19:42.031Z" icon="0" href="Index-Operation">
+          <caption translate="true">索引操作</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="44272478879922" build="ALL" modified="2026-04-29T11:27:07.647Z" icon="0" href="Spindle-Taper-Clean">
+        <caption translate="true">主轴锥面清洁</caption>
+      </topicref>
+      <topicref type="topic" id="442725977095669" build="ALL" modified="2026-04-29T11:39:27.356Z" icon="0" href="Tool-Change-Position">
+        <caption translate="true">刀具更换位置</caption>
+        <topicref type="topic" id="442725336397859" build="ALL" modified="2026-04-29T11:50:45.162Z" icon="0" href="Establishing-Tool-Change-Posit">
+          <caption translate="true">建立刀具更换位置（X 轴和 Y 轴）</caption>
+        </topicref>
+        <topicref type="topic" id="442725404082574" build="ALL" modified="2026-04-29T11:56:18.238Z" icon="0" href="Establishing-Tool-Change-Posi2">
+          <caption translate="true">建立刀具更换位置（Z 轴）</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="44270743772581" build="ALL" modified="2026-05-07T16:00:07.324Z" icon="0" href="ATC-Sequence-and-Recovery">
+        <caption translate="true">ATC 序列和恢复</caption>
+        <topicref type="topic" id="442723698346324" build="ALL" modified="2026-04-29T13:47:56.972Z" icon="0" href="ATC-Auto-Recovery">
+          <caption translate="true">ATC 自动恢复</caption>
+        </topicref>
+        <topicref type="topic" id="442721995970974" build="ALL" modified="2026-04-29T13:57:05.880Z" icon="0" href="ATC-Manual-Recovery">
+          <caption translate="true">ATC 人工恢复</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="45194858205752" build="ALL" modified="2026-04-29T13:56:57.223Z" icon="0" href="APC-Maintenance-Screen-(Servo-">
+      <caption translate="true">APC 维护屏幕</caption>
+      <topicref type="topic" id="451964517216831" build="ALL" modified="2026-04-29T14:02:07.927Z" icon="0" href="Route-Map-1">
+        <caption translate="true">3A.1 路线图（气动驱动）</caption>
+      </topicref>
+      <topicref type="topic" id="451963906909631" build="ALL" modified="2026-04-29T14:03:26.257Z" icon="0" href="Turning-Maintenance-Mode-ON-_2">
+        <caption translate="true">3A.2 打开 / 关闭维护模式</caption>
+      </topicref>
+      <topicref type="topic" id="451966529519939" build="ALL" modified="2026-04-29T14:05:37.859Z" icon="0" href="Confirming-Pallet-Number">
+        <caption translate="true">3A.3 确认托盘编号</caption>
+      </topicref>
+      <topicref type="topic" id="451964375710796" build="ALL" modified="2026-04-29T14:13:24.640Z" icon="0" href="Actuating-APC-Solenoid-and-Sig">
+        <caption translate="true">3A.4 驱动 APC 电磁阀和信号确认</caption>
+      </topicref>
+      <topicref type="topic" id="451966621182342" build="ALL" modified="2026-04-29T14:15:02.258Z" icon="0" href="APC-Sequence-and-Recovery">
+        <caption translate="true">3A.5 APC 序列和恢复</caption>
+        <topicref type="topic" id="451966391928352" build="ALL" modified="2026-04-29T15:27:49.819Z" icon="0" href="APC-Sequence">
+          <caption translate="true">3A.5.1 APC 序列</caption>
+        </topicref>
+        <topicref type="topic" id="45198313804242" build="ALL" modified="2026-04-29T15:36:31.786Z" icon="0" href="APC-Auto-Recovery">
+          <caption translate="true">3A.5.2 APC 自动恢复</caption>
+        </topicref>
+        <topicref type="topic" id="451974438950761" build="ALL" modified="2026-04-29T15:40:10.449Z" icon="0" href="APC-Manual-Recovery">
+          <caption translate="true">3A.5.3 APC 手动恢复</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="451972060135380" build="ALL" modified="2026-04-29T15:57:05.451Z" icon="0" href="APC-Related-Signal-Details">
+        <caption translate="true">3A.6 APC 相关信号细节</caption>
+      </topicref>
+      <topicref type="topic" id="456387221286170" build="ALL" modified="2026-04-29T16:01:38.504Z" icon="0" href="Route-Map-1_2">
+        <caption translate="true">3B.1 路线图（伺服驱动）</caption>
+      </topicref>
+      <topicref type="topic" id="456392289202951" build="ALL" modified="2026-04-29T16:08:52.994Z" icon="0" href="Turning-Maintenance-Mode-ON-_2_2">
+        <caption translate="true">3B.2 打开/关闭维护模式</caption>
+      </topicref>
+      <topicref type="topic" id="456391740756504" build="ALL" modified="2026-04-29T16:12:42.891Z" icon="0" href="Confirming-Pallet-Number_2">
+        <caption translate="true">3B.3 确认托盘编号</caption>
+      </topicref>
+      <topicref type="topic" id="456392366512710" build="ALL" modified="2026-04-29T16:17:55.187Z" icon="0" href="Actuating-APC-Solenoid-and-Sig_2">
+        <caption translate="true">3A.4 启动 APC 电磁阀和确认托盘升降信号</caption>
+      </topicref>
+      <topicref type="topic" id="456394595418260" build="ALL" modified="2026-04-29T16:19:24.619Z" icon="0" href="3B_5-Moving-APC-to-Pallet-1-or">
+        <caption translate="true">3B.5 将 APC 移至托盘 1 或 2 端位置</caption>
+      </topicref>
+      <topicref type="topic" id="456393881789601" build="ALL" modified="2026-04-29T16:22:50.439Z" icon="0" href="3B_6-Display-of-APC-position">
+        <caption translate="true">3B.6 显示 APC 位置</caption>
+      </topicref>
+      <topicref type="topic" id="451967685176900" build="ALL" modified="2026-04-30T09:16:23.862Z" icon="0" href="Moving-APC-Servo-Axis">
+        <caption translate="true">3B.7 移动 APC 伺服轴</caption>
+        <topicref type="topic" id="45196176299483" build="ALL" modified="2026-04-30T09:18:49.579Z" icon="0" href="Reference-Position-Return-Ope2">
+          <caption translate="true">3B.7.1 参照位置返回操作</caption>
+        </topicref>
+        <topicref type="topic" id="451966551764286" build="ALL" modified="2026-04-30T09:27:46.893Z" icon="0" href="Inching-Operation2">
+          <caption translate="true">3B.7.2 夹紧操作</caption>
+        </topicref>
+        <topicref type="topic" id="451964873666381" build="ALL" modified="2026-04-30T09:37:30.006Z" icon="0" href="Jog-Operation2">
+          <caption translate="true">3B.7.3 点动操作</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="451964625021573" build="ALL" modified="2026-04-30T09:38:33.823Z" icon="0" href="Inertia-Active-Control-(IAC)">
+        <caption translate="true">3B.8 惯性主动控制（IAC）</caption>
+        <topicref type="topic" id="451966868637615" build="ALL" modified="2026-04-30T09:39:19.239Z" icon="0" href="IAC-Level">
+          <caption translate="true">3B.8.1 IAC 级</caption>
+        </topicref>
+        <topicref type="topic" id="451967195530579" build="ALL" modified="2026-04-30T09:44:09.423Z" icon="0" href="IAC-TEACH-STATUS">
+          <caption translate="true">3B.8.2 IAC 教员状态</caption>
+        </topicref>
+        <topicref type="topic" id="451964243965403" build="ALL" modified="2026-04-30T09:47:11.269Z" icon="0" href="Procedure-for-IAC-Teaching">
+          <caption translate="true">3B.8.3 IAC 教学程序</caption>
+        </topicref>
+        <topicref type="topic" id="451965224099590" build="ALL" modified="2026-04-30T10:19:20.679Z" icon="0" href="Reset-of-IAC-teach-status-when">
+          <caption translate="true">3B.8.4 扭矩检测异常警报发生时 IAC 报文状态的复位</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="456394795474706" build="ALL" modified="2026-04-30T10:26:29.205Z" icon="0" href="APC-Sequence-and-Recovery_2">
+        <caption translate="true">3B.9 APC 序列和恢复</caption>
+        <topicref type="topic" id="456396373073675" build="ALL" modified="2026-04-30T10:28:01.504Z" icon="0" href="APC-Sequence_2">
+          <caption translate="true">3B.9.1 APC 序列</caption>
+        </topicref>
+        <topicref type="topic" id="456392909415140" build="ALL" modified="2026-04-30T10:57:12.678Z" icon="0" href="APC-Auto-Recovery_2">
+          <caption translate="true">3B.9.2 APC 自动恢复</caption>
+        </topicref>
+        <topicref type="topic" id="456396180751497" build="ALL" modified="2026-04-30T11:13:34.889Z" icon="0" href="APC-Manual-Recovery_2">
+          <caption translate="true">3B.9.3 APC 人工恢复</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="456398548078337" build="ALL" modified="2026-04-30T11:21:18.752Z" icon="0" href="APC-Related-Signal-Details_2">
+        <caption translate="true">3B.10 APC 相关信号细节</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442723430039489" build="ALL" modified="2026-04-30T11:27:50.844Z" icon="0" href="Fixture-Setup-Screen-and-Work-">
+      <caption translate="true">夹具设置屏幕和工作设置程序</caption>
+      <topicref type="topic" id="442725358833095" build="ALL" modified="2026-04-30T11:30:00.064Z" icon="0" href="Route-Map2">
+        <caption translate="true">路线图</caption>
+      </topicref>
+      <topicref type="topic" id="442723267619442" build="ALL" modified="2026-04-30T11:38:20.790Z" icon="0" href="Fixture-Configuration-Explanat">
+        <caption translate="true">夹具配置说明</caption>
+      </topicref>
+      <topicref type="topic" id="44272466625377" build="ALL" modified="2026-04-30T12:11:26.695Z" icon="0" href="Fixture-Setup-Procedure">
+        <caption translate="true">夹具设置步骤</caption>
+        <topicref type="topic" id="442725198855838" build="ALL" modified="2026-04-30T12:18:21.731Z" icon="0" href="Fixture-Status-Screen">
+          <caption translate="true">夹具状态屏幕</caption>
+        </topicref>
+        <topicref type="topic" id="442725564645714" build="ALL" modified="2026-04-30T12:31:10.033Z" icon="0" href="Fixture-Condition-Screen">
+          <caption translate="true">夹具状况屏幕</caption>
+        </topicref>
+        <topicref type="topic" id="442723423273939" build="ALL" modified="2026-04-30T13:38:14.833Z" icon="0" href="Fixture-Sequence-Screen">
+          <caption translate="true">夹具序列屏幕</caption>
+        </topicref>
+        <topicref type="topic" id="442748503731490" build="ALL" modified="2026-04-30T15:49:07.473Z" icon="0" href="Fixture-Signal-Details">
+          <caption translate="true">夹具信号细节</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="442742308722039" build="ALL" modified="2026-04-30T15:50:06.178Z" icon="0" href="Work-Setup-Side-Operation">
+        <caption translate="true">工作设置侧操作</caption>
+        <topicref type="topic" id="442745447331013" build="ALL" modified="2026-04-30T16:06:29.556Z" icon="0" href="Work-Setup-Operator-Panel">
+          <caption translate="true">工作设置操作面板</caption>
+        </topicref>
+        <topicref type="topic" id="442744596441790" build="ALL" modified="2026-05-04T08:59:18.288Z" icon="0" href="Work-Selection-Screen">
+          <caption translate="true">工作选择屏幕</caption>
+        </topicref>
+        <topicref type="topic" id="442743785888349" build="ALL" modified="2026-05-04T09:14:13.652Z" icon="0" href="Auto-Cycle-Sequence">
+          <caption translate="true">自动循环序列</caption>
+        </topicref>
+        <topicref type="topic" id="44272606747032" build="ALL" modified="2026-05-04T09:16:06.635Z" icon="0" href="Fixture-Coolant-ON-Timing">
+          <caption translate="true">夹具冷却液对正时的影响</caption>
+        </topicref>
+        <topicref type="topic" id="442743992209555" build="ALL" modified="2026-05-04T09:55:41.396Z" icon="0" href="Work-Setup-Side-Signal-List-">
+          <caption translate="true">工作设置侧信号列表 </caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442774284451832" build="ALL" modified="2026-05-04T09:55:56.320Z" icon="0" href="Greasing-Maintenance-Screen">
+      <caption translate="true">润滑保养屏幕</caption>
+      <topicref type="topic" id="442776104600527" build="ALL" modified="2026-05-04T11:12:07.387Z" icon="0" href="Auto-Greasing-(LUBE)">
+        <caption translate="true">自动润滑（LUBE）</caption>
+        <topicref type="topic" id="44278129165664" build="ALL" modified="2026-05-04T11:15:12.227Z" icon="0" href="Auto-Freasing-Flow-Chart-(LUBE">
+          <caption translate="true">自动润滑流程图 (LUBE)</caption>
+        </topicref>
+        <topicref type="topic" id="442775125157180" build="ALL" modified="2026-05-04T11:15:33.221Z" icon="0" href="Auto-Grease-Maintenance-Screen">
+          <caption translate="true">自动油脂维护屏幕 (LUBE)</caption>
+        </topicref>
+        <topicref type="topic" id="442776037140927" build="ALL" modified="2026-05-04T11:52:15.651Z" icon="0" href="Auto-Greasing-Signal-List-(LUB">
+          <caption translate="true">自动注油信号列表 (LUBE)</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442776838529259" build="ALL" modified="2026-05-04T11:55:22.722Z" icon="0" href="User-I_O-(Solenoid)-Usage-Procedure-">
+      <caption translate="true">用户输入/输出（电磁阀）使用程序</caption>
+      <topicref type="topic" id="442773224298660" build="ALL" modified="2026-05-04T11:55:36.830Z" icon="0" href="Route-Map3">
+        <caption translate="true">路线图</caption>
+      </topicref>
+      <topicref type="topic" id="442775965481993" build="ALL" modified="2026-05-04T12:00:51.099Z" icon="0" href="Outline">
+        <caption translate="true">概述</caption>
+      </topicref>
+      <topicref type="topic" id="44277012600683" build="ALL" modified="2026-05-04T13:35:35.558Z" icon="0" href="Hardware-I_O-Signal-List">
+        <caption translate="true">硬件输入/输出信号列表</caption>
+      </topicref>
+      <topicref type="topic" id="442773028796495" build="ALL" modified="2026-05-04T13:36:18.452Z" icon="0" href="User-I_O-Interface-Type-Select">
+        <caption translate="true">用户输入/输出接口类型选择</caption>
+      </topicref>
+      <topicref type="topic" id="442774165021783" build="ALL" modified="2026-05-04T14:23:29.015Z" icon="0" href="M-Code-and-Related-Operations">
+        <caption translate="true">M 代码及相关操作</caption>
+      </topicref>
+      <topicref type="topic" id="442774217443508" build="ALL" modified="2026-05-04T15:18:32.343Z" icon="0" href="Parameters-List">
+        <caption translate="true">参数列表</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442774426582387" build="ALL" modified="2026-05-04T15:22:02.608Z" icon="0" href="Broken-Tool-Sensor-Unit-Setup-">
+      <caption translate="true">刀具破损传感器装置设置步骤（OMRON BTS）</caption>
+      <topicref type="topic" id="44277223996708" build="ALL" modified="2026-05-04T15:22:27.313Z" icon="0" href="Route-Map4">
+        <caption translate="true">路线图</caption>
+      </topicref>
+      <topicref type="topic" id="442773381429527" build="ALL" modified="2026-05-04T15:25:16.215Z" icon="0" href="Outline2">
+        <caption translate="true">概述</caption>
+      </topicref>
+      <topicref type="topic" id="44278289529287" build="ALL" modified="2026-05-04T15:42:45.336Z" icon="0" href="Calibration">
+        <caption translate="true">校准</caption>
+      </topicref>
+      <topicref type="topic" id="442776398463740" build="ALL" modified="2026-05-04T15:49:26.798Z" icon="0" href="Enabling-BTS-in-Tool-Managemen">
+        <caption translate="true">在工具管理中启用 BTS</caption>
+      </topicref>
+      <topicref type="topic" id="442773261980686" build="ALL" modified="2026-05-04T15:50:01.262Z" icon="0" href="BTS-Sequence-(Flow-Chart)">
+        <caption translate="true">BTS 序列（流程图）</caption>
+      </topicref>
+      <topicref type="topic" id="44279142477884" build="ALL" modified="2026-05-04T15:50:43.382Z" icon="0" href="Signal-Details">
+        <caption translate="true">信号细节</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442785651702595" build="ALL" modified="2026-05-04T15:51:22.176Z" icon="0" href="Chapter-4-Spindle-Head">
+    <caption translate="true">第4章 主轴头</caption>
+    <topicref type="topic" id="442784776343900" build="ALL" modified="2026-05-04T15:53:54.861Z" icon="0" href="Overview2">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442785245278220" build="ALL" modified="2026-05-04T15:55:17.589Z" icon="0" href="Component-Name2">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442782004098876" build="ALL" modified="2026-05-04T16:01:08.000Z" icon="0" href="Configuration">
+      <caption translate="true">配置</caption>
+      <topicref type="topic" id="442783271594839" build="ALL" modified="2026-05-04T16:09:27.822Z" icon="0" href="Piping-and-Wiring">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442782008288475" build="ALL" modified="2026-05-04T16:14:40.176Z" icon="0" href="Spindle-Head-Mechanism">
+      <caption translate="true">主轴头机构</caption>
+      <topicref type="topic" id="442781957799171" build="ALL" modified="2026-05-04T16:15:26.514Z" icon="0" href="Tool-Clamp_Unclamp">
+        <caption translate="true">刀具夹紧/松开</caption>
+        <topicref type="topic" id="442782976690031" build="ALL" modified="2026-05-04T16:16:37.190Z" icon="0" href="Tool-Unclamp">
+          <caption translate="true">刀具松开</caption>
+        </topicref>
+        <topicref type="topic" id="442783417837487" build="ALL" modified="2026-05-04T16:18:10.501Z" icon="0" href="Tool-Clamp_Tool-Setting-Confir">
+          <caption translate="true">刀具夹紧/刀具就位确认（LS601）</caption>
+        </topicref>
+        <topicref type="topic" id="442782876450012" build="ALL" modified="2026-05-04T16:18:58.459Z" icon="0" href="Tool-Clamp-_-Tool-Presence-Con">
+          <caption translate="true">刀具夹紧/刀具在位确认（LS602）</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="442784850646519" build="ALL" modified="2026-05-04T16:20:07.930Z" icon="0" href="Rotary-Union-Mechanism-(Option">
+        <caption translate="true">旋转联合装置（选配）</caption>
+      </topicref>
+      <topicref type="topic" id="442781776174782" build="ALL" modified="2026-05-04T16:21:47.775Z" icon="0" href="Through-Spindle-Coolant-(TSC--">
+        <caption translate="true">贯穿主轴冷却液（TSC- 选配）</caption>
+      </topicref>
+      <topicref type="topic" id="442784588091145" build="ALL" modified="2026-05-04T16:22:06.445Z" icon="0" href="Air-Functions">
+        <caption translate="true">空气功能</caption>
+        <topicref type="topic" id="442782533418854" build="ALL" modified="2026-05-05T08:08:24.247Z" icon="0" href="Spindle-Taper-Cleaning">
+          <caption translate="true">主轴锥面清洁</caption>
+        </topicref>
+        <topicref type="topic" id="442784444385390" build="ALL" modified="2026-05-05T08:09:28.150Z" icon="0" href="Air-Blow-(Option)">
+          <caption translate="true">吹气（选配）</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="44277369989188" build="ALL" modified="2026-05-05T08:12:40.719Z" icon="0" href="Through-Spindle-Coolant-Operat">
+        <caption translate="true">贯穿主轴冷却液运行时序表</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="44279562732769" build="ALL" modified="2026-05-05T08:13:20.662Z" icon="0" href="Chapter-5-Feed-Axis">
+    <caption translate="true">第5章 进给轴</caption>
+    <topicref type="topic" id="442784798475111" build="ALL" modified="2026-05-05T08:14:01.273Z" icon="0" href="Overview3">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442786299071413" build="ALL" modified="2026-05-05T08:15:40.631Z" icon="0" href="General-View-and-Components">
+        <caption translate="true">总则视图和组件</caption>
+      </topicref>
+      <topicref type="topic" id="442786761876647" build="ALL" modified="2026-05-05T08:19:10.170Z" icon="0" href="Piping-and-Wiring2">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442783923138628" build="ALL" modified="2026-05-05T08:20:32.534Z" icon="0" href="Feed-Axis-Mechanism">
+      <caption translate="true">进给轴机构</caption>
+      <topicref type="topic" id="442786827190560" build="ALL" modified="2026-05-05T08:21:02.630Z" icon="0" href="Feed-Axis-Drive">
+        <caption translate="true">进给轴驱动器</caption>
+        <topicref type="topic" id="442786610676669" build="ALL" modified="2026-05-05T08:22:41.686Z" icon="0" href="Drive">
+          <caption translate="true">驾驶</caption>
+        </topicref>
+        <topicref type="topic" id="442784529659079" build="ALL" modified="2026-05-05T09:38:13.424Z" icon="0" href="Axis-Configuration">
+          <caption translate="true">轴配置</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="442786418537274" build="ALL" modified="2026-05-05T09:43:27.917Z" icon="0" href="Axis-Stroke-Limits">
+        <caption translate="true">轴行程限制</caption>
+      </topicref>
+      <topicref type="topic" id="442786796086987" build="ALL" modified="2026-05-05T10:28:36.418Z" icon="0" href="Reference-Position-Return">
+        <caption translate="true">参照位置返回</caption>
+      </topicref>
+      <topicref type="topic" id="442784182674625" build="ALL" modified="2026-05-05T10:31:07.596Z" icon="0" href="Z-Axis-Ball-Screw-Support-Bear">
+        <caption translate="true">Z 轴滚珠丝杠支撑轴承冷却器</caption>
+      </topicref>
+      <topicref type="topic" id="442786554651764" build="ALL" modified="2026-05-05T10:33:53.600Z" icon="0" href="Axis-Support-and-Guide">
+        <caption translate="true">轴支持和指南</caption>
+      </topicref>
+      <topicref type="topic" id="442784041038985" build="ALL" modified="2026-05-05T10:35:20.591Z" icon="0" href="Axes-Backlash">
+        <caption translate="true">斧头的反冲力</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442784884978067" build="ALL" modified="2026-05-05T10:35:40.151Z" icon="0" href="Chapter-6-Automatic-Tool-Cha">
+    <caption translate="true">第6章 自动工具快换装置 (ATC)</caption>
+    <topicref type="topic" id="442788237259816" build="ALL" modified="2026-05-05T10:36:38.507Z" icon="0" href="Overview4">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442787972997604" build="ALL" modified="2026-05-05T10:37:28.323Z" icon="0" href="Component-Name3">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442784524742123" build="ALL" modified="2026-05-05T10:38:22.833Z" icon="0" href="Piping-and-Wiring3">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442787349242341" build="ALL" modified="2026-05-05T10:39:54.777Z" icon="0" href="ATC-Magazine-Mechanism">
+      <caption translate="true">ATC 刀库机制</caption>
+      <topicref type="topic" id="442784988873205" build="ALL" modified="2026-05-05T10:44:05.158Z" icon="0" href="Tool-Change-Operation">
+        <caption translate="true">换刀操作</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="456454628187875" build="ALL" modified="2026-05-05T10:45:21.169Z" icon="0" href="Chapter-7---Automatic-Pallet-C">
+    <caption translate="true">第7章 气动自动托盘交换器 (APC)</caption>
+    <topicref type="topic" id="456455404077582" build="ALL" modified="2026-05-05T10:49:39.211Z" icon="0" href="Overview_2">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="456453138110442" build="ALL" modified="2026-05-05T10:50:44.710Z" icon="0" href="Piping-and-Wiring6_2">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="456454050937951" build="ALL" modified="2026-05-05T10:52:15.954Z" icon="0" href="APC-Mechanism_2">
+      <caption translate="true">APC 机制</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="45195822904056" build="ALL" modified="2026-05-05T10:52:37.224Z" icon="0" href="Chapter-7-Automatic-Pallet-Cha">
+    <caption translate="true">第8章 自动托盘交换器 (APC) 伺服-M 驱动型</caption>
+    <topicref type="topic" id="451976110623010" build="ALL" modified="2026-05-05T10:53:45.092Z" icon="0" href="Overview">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="451977435601813" build="ALL" modified="2026-05-05T10:54:21.473Z" icon="0" href="Piping-and-Wiring6">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="451976010012341" build="ALL" modified="2026-05-05T11:02:49.584Z" icon="0" href="APC-Mechanism">
+      <caption translate="true">APC 机制</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432946821215577" build="ALL" modified="2026-05-05T11:03:16.964Z" icon="0" href="Chapter-8-Spindle-Oil-Temperature-Controller">
+    <caption translate="true">第9章 主轴冷却器</caption>
+    <topicref type="topic" id="432947243406348" build="ALL" modified="2026-05-05T11:03:28.564Z" icon="0" href="1_Overview-of-Spindle-Oil-Temper">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442793955546860" build="ALL" modified="2026-05-05T11:38:53.559Z" icon="0" href="Component-Name4">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442797648748154" build="ALL" modified="2026-05-05T11:43:15.020Z" icon="0" href="Piping-Cooler2">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="445295975487046" build="ALL" modified="2026-05-05T11:50:04.259Z" icon="0" href="Spindle-Cooler-Circuit">
+      <caption translate="true">主轴冷却器电路</caption>
+      <topicref type="topic" id="445294620644613" build="ALL" modified="2026-05-05T11:51:05.991Z" icon="0" href="Z-Axis-Ball-Screw-Support-Bea2">
+        <caption translate="true">Z 轴滚珠丝杠支撑轴承冷却器</caption>
+      </topicref>
+      <topicref type="topic" id="456455943336262" build="ALL" modified="2026-05-05T11:52:50.663Z" icon="0" href="Signal-Sequence">
+        <caption translate="true">信号序列</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442794572166598" build="ALL" modified="2026-05-05T11:54:40.931Z" icon="0" href="Chapter-9-Automatic-Grease-S">
+    <caption translate="true">第10章 自动润滑脂供应装置</caption>
+    <topicref type="topic" id="442795498616274" build="ALL" modified="2026-05-05T12:05:18.475Z" icon="0" href="Overview5">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442796402389831" build="ALL" modified="2026-05-05T12:06:20.910Z" icon="0" href="Component-Name5">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442795802498711" build="ALL" modified="2026-05-05T12:10:22.784Z" icon="0" href="Piping-and-Wiring4">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442794098587103" build="ALL" modified="2026-05-05T12:12:12.496Z" icon="0" href="Automatic-Grease-Supply-Unit-M">
+      <caption translate="true">润滑脂自动供应装置机构</caption>
+      <topicref type="topic" id="442794707744673" build="ALL" modified="2026-05-05T12:18:00.441Z" icon="0" href="Automatic-Grease-Circuit">
+        <caption translate="true">自动润滑脂回路</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442804220102641" build="ALL" modified="2026-05-05T12:18:25.885Z" icon="0" href="Chapter-10-Spindle-Hydraulic-">
+    <caption translate="true">第11章 主轴液压单元</caption>
+    <topicref type="topic" id="442804783811508" build="ALL" modified="2026-05-05T12:25:24.261Z" icon="0" href="Overview6">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442802481693549" build="ALL" modified="2026-05-05T12:27:45.552Z" icon="0" href="Component-Name6">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442805521537991" build="ALL" modified="2026-05-05T13:38:24.182Z" icon="0" href="Piping-and-Wiring5">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442805016576172" build="ALL" modified="2026-05-05T13:41:22.698Z" icon="0" href="Spindle-Hydraulic-Unit-Mechani">
+      <caption translate="true">主轴液压单元机构</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442807096865500" build="ALL" modified="2026-05-05T13:42:13.753Z" icon="0" href="Chapter-11-Fixture-Hydraulic2">
+    <caption translate="true">第12章 夹具液压单元（选配）</caption>
+    <topicref type="topic" id="442804790891030" build="ALL" modified="2026-05-05T13:42:59.526Z" icon="0" href="Overview12">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442807716729840" build="ALL" modified="2026-05-05T13:45:05.304Z" icon="0" href="Component-Name10">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="44279267659322" build="ALL" modified="2026-05-05T14:02:51.082Z" icon="0" href="Piping-and-Wiring8">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442805287480935" build="ALL" modified="2026-05-05T14:03:53.661Z" icon="0" href="Fixture-Hydraulic-Unit-Mechan2">
+      <caption translate="true">夹具液压单元机械装置</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="433352802053113" build="MECHANICAL" modified="2026-05-05T14:05:17.024Z" icon="0" href="Chapter-12-Pneumatic-Unit">
+    <caption translate="true">第13章 气动系统</caption>
+    <topicref type="topic" id="433352206343049" build="ALL" modified="2026-05-05T14:06:06.744Z" icon="0" href="Overview-of-Pneumatic-System">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="433365980474291" build="ALL" modified="2026-05-05T14:10:20.379Z" icon="0" href="Component-Name-Pneumatic-System">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43340203051587" build="ALL" modified="2026-05-05T14:12:04.894Z" icon="0" href="Configuration-Details">
+      <caption translate="true">配置细节</caption>
+      <topicref type="topic" id="433393389288926" build="ALL" modified="2026-05-05T14:15:51.833Z" icon="0" href="Main-Air-Unit">
+        <caption translate="true">主空气单元</caption>
+      </topicref>
+      <topicref type="topic" id="433394547198683" build="ALL" modified="2026-05-05T14:18:13.258Z" icon="0" href="Scale-Air-Unit">
+        <caption translate="true">刻度空气装置</caption>
+      </topicref>
+      <topicref type="topic" id="433395414864605" build="ALL" modified="2026-05-05T14:18:49.299Z" icon="0" href="Pneumatic-Circuit-Diagram-Basic-Machine">
+        <caption translate="true">气动电路图 - 基本机床和选配</caption>
+      </topicref>
+      <topicref type="topic" id="451985422759509" build="ALL" modified="2026-05-05T14:19:27.904Z" icon="0" href="Pneumatic-Circuit-Diagram-PalletChanger">
+        <caption translate="true">气动电路图 - 托盘交换器装置</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="442816681025712" build="ALL" modified="2026-05-05T14:20:14.082Z" icon="0" href="Chapter-13-Chip-Disposal-and">
+    <caption translate="true">第14章 碎屑处理和输送机</caption>
+    <topicref type="topic" id="444309185529" build="ALL" modified="2026-05-05T14:21:24.371Z" icon="0" href="Overview9">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442815033938186" build="ALL" modified="2026-05-05T14:22:49.332Z" icon="0" href="Component-Name11">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442813640700492" build="ALL" modified="2026-05-05T14:23:55.168Z" icon="0" href="Wiring2">
+        <caption translate="true">布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442816658721406" build="ALL" modified="2026-05-05T14:30:32.595Z" icon="0" href="Chip-Disposal-and-Conveyor-Mec">
+      <caption translate="true">碎屑处理和输送机制</caption>
+      <topicref type="topic" id="442815175994076" build="ALL" modified="2026-05-05T15:18:54.721Z" icon="0" href="Flush-Coolant">
+        <caption translate="true">冲洗冷却液</caption>
+      </topicref>
+      <topicref type="topic" id="442814236909935" build="ALL" modified="2026-05-05T15:21:32.049Z" icon="0" href="Lift-Up-Chip-Conveyor-(Option)">
+        <caption translate="true">滚筒输送机（选配）</caption>
+      </topicref>
+      <topicref type="topic" id="442814175623759" build="ALL" modified="2026-05-05T15:26:09.650Z" icon="0" href="Drum-Unit">
+        <caption translate="true">鼓单元</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="433414481940760" build="MECHANICAL" modified="2026-05-05T15:26:50.804Z" icon="0" href="Chapter-14-Cutting-Fluid-Supply-Unit-and-Tank">
+    <caption translate="true">第15章 切削液供应装置和储液罐</caption>
+    <topicref type="topic" id="433416427806559" build="ALL" modified="2026-05-05T15:28:35.174Z" icon="0" href="Overview-of-Cutting-Fluid-Supply-Unit">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="442816538626725" build="ALL" modified="2026-05-05T15:35:55.950Z" icon="0" href="Component-Name12">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="442816199829818" build="ALL" modified="2026-05-05T15:37:58.809Z" icon="0" href="Piping-and-Wiring9">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433418091990359" build="ALL" modified="2026-05-05T15:39:20.598Z" icon="0" href="Cutting-Fluid-Supply-Unit-and-Tank-Mechanisms">
+      <caption translate="true">切削液供应装置和储液罐装置</caption>
+      <topicref type="topic" id="433415079515300" build="ALL" modified="2026-05-05T15:41:41.240Z" icon="0" href="Flush-Coolant2">
+        <caption translate="true">冲洗冷却液（标准机床）</caption>
+      </topicref>
+      <topicref type="topic" id="451986907250011" build="ALL" modified="2026-05-05T15:44:51.936Z" icon="0" href="Flush-Coolant-(APC-Machine)">
+        <caption translate="true">冲洗冷却液（APC 机床）</caption>
+      </topicref>
+      <topicref type="topic" id="442817311260261" build="ALL" modified="2026-05-05T15:46:33.508Z" icon="0" href="Nozzle-Coolant">
+        <caption translate="true">喷嘴冷却液</caption>
+      </topicref>
+      <topicref type="topic" id="442816347232894" build="ALL" modified="2026-05-05T15:48:46.031Z" icon="0" href="Backwash-Coolant">
+        <caption translate="true">反冲洗冷却液</caption>
+      </topicref>
+      <topicref type="topic" id="44280433848414" build="ALL" modified="2026-05-05T16:00:36.216Z" icon="0" href="Through-Spindle-Coolant-(TSC)">
+        <caption translate="true">贯穿主轴冷却液 (TSC)</caption>
+        <topicref type="topic" id="442813575829224" build="ALL" modified="2026-05-05T16:14:58.099Z" icon="0" href="Cyclone-Filter-(Option)">
+          <caption translate="true">旋风过滤器（选配）</caption>
+        </topicref>
+        <topicref type="topic" id="444595861902109" build="ALL" modified="2026-05-05T16:38:37.683Z" icon="0" href="Through-Spindle-Coolant-Flow-S">
+          <caption translate="true">贯穿主轴冷却液流量开关设置</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="442816226282641" build="ALL" modified="2026-05-06T08:22:19.389Z" icon="0" href="Coolant-Tank">
+        <caption translate="true">冷却剂存储罐</caption>
+        <topicref type="topic" id="442815841694216" build="ALL" modified="2026-05-06T08:28:27.545Z" icon="0" href="Proximity-Switch-LS1319-(Low-L">
+          <caption translate="true">接近开关 LS1319（低液位检测）</caption>
+        </topicref>
+        <topicref type="topic" id="442814507719238" build="ALL" modified="2026-05-06T08:30:13.477Z" icon="0" href="Oil-Skimmer">
+          <caption translate="true">撇油器</caption>
+        </topicref>
+        <topicref type="topic" id="442815895043367" build="ALL" modified="2026-05-06T08:32:41.958Z" icon="0" href="Magnet-Separator">
+          <caption translate="true">磁分离器</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="442816710559996" build="ALL" modified="2026-05-06T08:34:15.128Z" icon="0" href="Cutting-Fluid-Temperature-Cont">
+        <caption translate="true">切削液温度控制器（选配）</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432994078941755" build="MECHANICAL,SOFTWARE" modified="2026-05-06T08:35:57.082Z" icon="0" href="Chapter-15-Splash-Guard">
+    <caption translate="true">第16章 防溅板</caption>
+    <topicref type="topic" id="432995221741530" build="ALL" modified="2026-05-06T08:37:17.077Z" icon="0" href="Overview-of-Splash-Guard">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="4329145877129" build="MECHANICAL" modified="2026-05-06T09:43:52.451Z" icon="0" href="Component-Name-of-Splash-Guard">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="432997284356616" build="MECHANICAL" modified="2026-05-06T09:46:15.431Z" icon="0" href="Wiring-of-Splash-Guard">
+        <caption translate="true">布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433004359737835" build="ALL" modified="2026-05-06T09:52:51.924Z" icon="0" href="Axis-Covers">
+      <caption translate="true">轴套</caption>
+      <topicref type="topic" id="433002695555504" build="ALL" modified="2026-05-06T10:32:58.833Z" icon="0" href="X-Axis-Bellow-Cover">
+        <caption translate="true">X 轴波纹管盖</caption>
+      </topicref>
+      <topicref type="topic" id="433002077973657" build="ALL" modified="2026-05-06T10:34:11.361Z" icon="0" href="Ceiling-Bellow-Cover-(Option)">
+        <caption translate="true">天花板波纹管盖（选配）</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433005597949150" build="ALL" modified="2026-05-06T10:37:30.987Z" icon="0" href="Machine-External-Covers">
+      <caption translate="true">机床外罩</caption>
+    </topicref>
+    <topicref type="topic" id="433013800588242" build="ALL" modified="2026-05-06T10:43:14.792Z" icon="0" href="Safety-Devices-of-Splash-Guard">
+      <caption translate="true">安全装置</caption>
+      <topicref type="topic" id="433054502682822" build="ALL" modified="2026-05-06T10:43:47.025Z" icon="0" href="Splash-Guard-Door-Lock-Devices">
+        <caption translate="true">防溅板门锁装置 </caption>
+        <topicref type="topic" id="433054590489088" build="ALL" modified="2026-05-06T10:56:23.938Z" icon="0" href="Standard-Splash-Guard-with-Manual-Operator-Door">
+          <caption translate="true">带手动操作门的标准防溅板</caption>
+        </topicref>
+        <topicref type="topic" id="433057876738549" build="ALL" modified="2026-05-06T11:07:56.304Z" icon="0" href="Standard-Splash-Guard-with-Auto-Operator-Door">
+          <caption translate="true">带自动操作门的标准防溅板</caption>
+        </topicref>
+        <topicref type="topic" id="452014895528752" build="ALL" modified="2026-05-06T11:35:55.771Z" icon="0" href="APC-Splash-Guard-with-Manual-S">
+          <caption translate="true">带手动储存库门的 APC 防溅板</caption>
+        </topicref>
+        <topicref type="topic" id="452017920175017" build="ALL" modified="2026-05-06T12:22:42.393Z" icon="0" href="APC-Splash-Guard-with-Auto-Sto">
+          <caption translate="true">带自动储存库门的 APC 防溅板</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="433074973525057" build="ALL" modified="2026-05-06T12:29:06.964Z" icon="0" href="Auto-Operator-Door-(Standard-Machine)">
+        <caption translate="true">自动操作门（标准机床）</caption>
+      </topicref>
+      <topicref type="topic" id="452016143567971" build="ALL" modified="2026-05-06T13:35:48.422Z" icon="0" href="APC-Auto-Stocker-Door">
+        <caption translate="true">APC 自动储存库门</caption>
+      </topicref>
+      <topicref type="topic" id="442852855367634" build="ALL" modified="2026-05-06T13:37:28.098Z" icon="0" href="Manual-Override">
+        <caption translate="true">手动覆盖</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442853433276518" build="ALL" modified="2026-05-06T13:37:47.765Z" icon="0" href="Lighting-Device">
+      <caption translate="true">照明设备</caption>
+      <topicref type="topic" id="442854591717551" build="ALL" modified="2026-05-06T13:39:07.298Z" icon="0" href="Overview10">
+        <caption translate="true">概述</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="442852410523842" build="ALL" modified="2026-05-06T13:39:40.565Z" icon="0" href="Signal-Lamp-(Warning-Lamp)">
+      <caption translate="true">信号灯（警示灯）</caption>
+      <topicref type="topic" id="442855956655686" build="ALL" modified="2026-05-06T13:41:48.227Z" icon="0" href="Overview11">
+        <caption translate="true">概述</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="433844650664288" build="ALL" modified="2026-05-06T13:42:12.187Z" icon="1" href="Chapter-16-Mist-Collector">
+    <caption translate="true">第17节 集雾器（选配）</caption>
+    <topicref type="topic" id="433845434574182" build="ALL" modified="2026-05-06T13:42:52.525Z" icon="0" href="Overview-of-Mist-Collector">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="434256760822184" build="ALL" modified="2026-05-06T13:45:38.500Z" icon="0" href="Component-Name-Mist-Collector">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="433842517754704" build="ALL" modified="2026-05-06T13:48:38.996Z" icon="0" href="Piping-and-Wiring-Mist-Collector">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433845041696766" build="ALL" modified="2026-05-07T13:36:24.371Z" icon="2" href="Mist-Collector-Mechanism">
+      <caption translate="true">集雾器装置</caption>
+      <topicref type="topic" id="433844122921096" build="ALL" modified="2026-05-07T13:37:26.836Z" icon="0" href="Mist-Collector-Start-and-Stop-">
+        <caption translate="true">集雾器启动和停止操作</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="433846612137794" build="ALL" modified="2026-05-07T13:37:47.806Z" icon="1" href="Chapter-17-Air-Dryer">
+    <caption translate="true">第18章 空气干燥器（选配）</caption>
+    <topicref type="topic" id="433844033098609" build="ALL" modified="2026-05-07T13:39:48.792Z" icon="0" href="Overview-of-Air-Dryer">
+      <caption translate="true">概述</caption>
+      <topicref type="topic" id="434302456114066" build="ALL" modified="2026-05-07T13:41:29.140Z" icon="0" href="Component-Name-Air-Dryer">
+        <caption translate="true">组件名称</caption>
+      </topicref>
+      <topicref type="topic" id="433845520303626" build="ALL" modified="2026-05-07T13:42:18.531Z" icon="0" href="Piping-and-Wiring-Air-Dryer">
+        <caption translate="true">管道和布线</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433845433694397" build="ALL" modified="2026-05-07T13:42:50.913Z" icon="0" href="Air-Dryer-Mechanism">
+      <caption translate="true">空气干燥器机械装置</caption>
+      <topicref type="topic" id="433847801749957" build="ALL" modified="2026-05-07T13:44:39.496Z" icon="0" href="Compressed-Air-and-Refrigerant">
+        <caption translate="true">压缩空气和制冷剂回路</caption>
+      </topicref>
+      <topicref type="topic" id="433846350508030" build="ALL" modified="2026-05-07T14:02:43.044Z" icon="0" href="Electrical-Circuit">
+        <caption translate="true">电路</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+</map>

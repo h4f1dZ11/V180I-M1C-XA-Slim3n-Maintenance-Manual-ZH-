@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-29T09:08:16.319+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>开启/关闭维护模式</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">开启/关闭维护模式</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Image Caption"> </text><image src="Turning Maintenance Mode ON OFF.png" scale="50.00%" width="356" height="75" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:14px;">要执行 ATC 维护功能，需要打开维护模式。</para>
+    <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:10px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:10px;">要打开，请按<text style="font-weight:bold;">[MAINTENANCE]</text>软键，<text style="font-weight:bold;">[MAINTENANCE]</text>软键的背景将突出显示为黄色。</li>
+      <li styleclass="Normal" style="margin-bottom:10px;">要关闭，请按<text style="font-weight:bold;">[MAINTENANCE]</text>软键，<text style="font-weight:bold;">[MAINTENANCE]</text>软键的背景将突出显示为黑色。</li>
+    </list>
+  </body>
+</topic>

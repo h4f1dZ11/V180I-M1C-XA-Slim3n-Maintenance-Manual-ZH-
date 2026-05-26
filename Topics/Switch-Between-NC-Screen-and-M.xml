@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" modified="2026-04-29T09:22:32.156Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>在 NC 屏幕和 Makino 自定义屏幕之间切换</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">在 NC 屏幕和 Makino 自定义屏幕之间切换</para>
+    </header>
+    <para styleclass="Normal">专业版S 有 NC 屏幕和 Makino 自定义屏幕。按图 2.1 中标有 [A] 的按钮即可在屏幕之间进行切换。</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Figure 2.2.1 Switching Screens between NC screen.png" imagestyleclass="Default" scale="95.00%" width="440" height="480" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER2=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;在 NC 屏幕和 Makino 自定义屏幕之间切换屏幕</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

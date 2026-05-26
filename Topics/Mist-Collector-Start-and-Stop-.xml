@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-19T08:43:19.483+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>集雾器启动和停止操作</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">集雾器启动和停止操作</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:11px;"><text style="font-size:11pt;">集雾器按以下顺序启动/停止。</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Mist collector start stop op.jpg" scale="32.00%" width="564" height="270" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:11px;"><text style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER17=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;  集雾器启动和停止操作</text></para>
+  </body>
+</topic>

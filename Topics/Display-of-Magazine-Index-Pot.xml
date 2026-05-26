@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Needs Review" modified="2026-04-29T09:09:33.310Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>显示杂志索引具夹</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">显示杂志索引具夹</para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Image Caption">&#32;</text><image src="Display of Magazine Index Pot.png" imagestyleclass="Default" scale="30.00%" width="367" height="38" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">显示刀具更换位置处的当前分度器具夹编号。仅在换刀时适用。当刀库旋转或被分度到任意位置时，或 ATC 快门关闭时，显示&quot;- -&quot;。</para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

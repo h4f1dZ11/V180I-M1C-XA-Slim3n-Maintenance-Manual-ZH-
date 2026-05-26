@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-05-13T11:28:44.200+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Tool Clamp / Tool Presence Confirmation (LS602)</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">刀具夹紧/刀具在位确认（LS602）</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Tool Presence Confirmation (LS602).png" imagestyleclass="Default" scale="30.45%" width="540" height="850" styleclass="Image Caption" figurelistinclude="0"></image></para>
+  </body>
+</topic>

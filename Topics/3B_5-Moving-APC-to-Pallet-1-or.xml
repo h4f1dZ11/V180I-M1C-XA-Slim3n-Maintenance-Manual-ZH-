@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-30T09:37:58.243+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>3B.5 将 APC 移至托盘 1 或 2 端位置</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">3B.5 将 APC 移至托盘 1 或 2 端位置</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:5px;">这样，托盘 1 或托盘 2 都可以旋转到加工区域。</para>
+    <para styleclass="Normal">此外，还可确认末端移动确认信号。</para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><image src="Moving APC to Pallet 1 or 2 End positions.png" imagestyleclass="Default" scale="35.00%" width="327" height="77" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal">将托板 1 或 2 移至加工区的操作步骤：</para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;">打开维护模式。</li>
+      <li styleclass="Normal" style="line-height:1.50;">按<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11.5pt; font-weight:bold; color:#000000;">­</text><text style="font-weight:bold;">]</text>或<text style="font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¯</text><text style="font-weight:bold;">]</text>光标键，选择 &quot;托盘 CW (1) 或 CCW (2)&quot;。</li>
+      <li styleclass="Normal" style="line-height:1.50;">要使托盘移动，按<text style="font-weight:bold;">[ON]</text>软键。</li>
+      <li styleclass="Normal" style="line-height:1.50;">托盘根据 CW/CCW 选择移动到终点位置。</li>
+      <li styleclass="Normal" style="line-height:1.50;">通过限位开关 LS102（CCW）(2) / LS103（CW）(1) 确认终点位置。</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">托盘编号相关信息：</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="3" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:middle">
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">托盘编号</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">托盘角度</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">末端限位开关</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">1 (CW)</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">0 Deg</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">LS103</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">2 (CCW)</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">180 Deg</para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-left:3px;">LS102</para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

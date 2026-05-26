@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2026-04-30T09:38:02.404+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd" status="Needs Review">
+  <title>3B.3 确认托盘编号 (2)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">3B.3 确认托盘编号</para>
+    </header>
+    <para styleclass="Normal"><image src="Confirming Pallet No..png" scale="30.00%" width="302" height="27" styleclass="Image Caption" figurelistinclude="0"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">该字段显示工作台一侧的托盘编号。关于工作台一侧,</para>
+    <para styleclass="Normal"></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:11px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:11px;">CW (LS103) 信号亮起，则工作台一侧的托板为 &apos;1&apos;</li>
+      <li styleclass="Normal">CCW（LS102）信号亮起，则工作台一侧的托盘为 &apos;2&apos;</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">在 APC 操作过程中，当信号 LS102 / LS103 均为 &apos;0&apos; 时，托盘编号显示为 &apos;0&apos;。</para>
+  </body>
+</topic>
