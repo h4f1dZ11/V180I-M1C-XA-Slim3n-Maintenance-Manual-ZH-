@@ -115,7 +115,6 @@
       <config-value name="title" translate="true">Mill-Turn Maintenance Manual</config-value>
       <config-value name="summary" translate="true">V18321I-M1E-XA</config-value>
       <config-value name="searchpath">.\Graphics\Ch 1 Safety\Slim3n\;.\Graphics\Ch 2 Machine Controller\Slim3n\;.\Graphics\Ch 3 Machine Maintenance\Slim3n\;.\Graphics\Ch 4 Spindle Head\Slim3n\;.\Graphics\Ch 5 Feed Axis\Slim3n\;.\Graphics\Ch 6 Automatic Tool Changer\Slim3n\;.\Graphics\Ch 7 APC Pneumatic Driven\Slim3n\;.\Graphics\Ch 8 APC Servo-M Driven\Slim3n\;.\Graphics\Ch 9 Spindle Cooler\Slim3n\;.\Graphics\Ch 10 Automatic Grease Supply Unit\Slim3n\;.\Graphics\Ch 11 Spindle Hydraulic Unit\Slim3n\;.\Graphics\Ch 12 Fixture Hydraulic Unit (option)\Slim3n\;.\Graphics\Ch 13 Pneumatic System\Slim3n\;.\Graphics\Ch 14 Chip Disposal and Conveyor\Slim3n\;.\Graphics\Ch 15 Cutting Fluid Supply Unit\Slim3n\;.\Graphics\Ch 16 Splash Guard\Slim3n\;.\Graphics\Ch 17 Mist Collector\Slim3n\;.\Graphics\Ch 18 Air Dryer\Slim3n\</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -127,7 +126,7 @@
       <config-value name="linkcolor">16711680</config-value>
       <config-value name="ignoreblank">0</config-value>
       <config-value name="outputfile">.\PDF\V310I-M1E-XB Slim5n Maintenance Manual (EN)_0002.pdf</config-value>
-      <config-value name="template">.\V180I-M1E-XE Slim3n Maintenance Manual (EN)\Templates\V310I-M1E-XB_Maintenance Manual.mnl</config-value>
+      <config-value name="template">.\V180I-M1E-XE Slim3n Maintenance Manual (EN)\Templates\V310I-M1E-XB_Maintenance Manua  mnl</config-value>
       <config-value name="highlighthotspots">0</config-value>
       <config-value name="exportcomments">0</config-value>
       <config-value name="exportcommentsdate">36526</config-value>
