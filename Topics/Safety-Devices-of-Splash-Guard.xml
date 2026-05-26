@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-18T11:52:54.688+08:00" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-05-26T16:40:56.804Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>安全装置 of Splash Guard</title>
   <body>
     <header>
@@ -15,7 +15,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Safety Devices 1_chp16.png" imagestyleclass="Default" scale="14.50%" width="352" height="396" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER16=4%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;   </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">安全装置 1</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER16=4%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">安全装置 1</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -69,7 +69,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Safety Devices APC.png" scale="36.00%" width="678" height="690" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER16=4%&gt;.&lt;%HMFIGURECOUNTER%&gt;   </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Safety Devices 2</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:11px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER16=4%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">安全装置 2</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:top">
         <td style="width:53px; height:21px; background-color:#dddddd;">

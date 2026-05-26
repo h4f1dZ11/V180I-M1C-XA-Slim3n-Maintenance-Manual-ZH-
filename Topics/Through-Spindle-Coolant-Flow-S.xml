@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-05T16:38:44.095Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-05-26T16:38:37.483Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>贯穿主轴冷却液流量开关设置</title>
   <body>
     <header>
@@ -17,7 +17,7 @@
             <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">非预期的不当使用可能会导致设备故障或对应用产生不必要的影响。</text></li>
           </list>
           <list id="1" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
-            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">设备的安装、电气连接、设置、操作和维护只能由机床运营商授权的合格人员进行。</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:4px; margin-right:4px; margin-bottom:4px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">设备的安装,电气连接,设置,操作和维护只能由机床运营商授权的合格人员进行。</text></li>
           </list>
         </td>
       </tr>
