@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-04-29T11:56:19.248Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-03T09:34:12.715Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>建立刀具更换位置（Z 轴）</title>
   <body>
     <header>
       <para styleclass="Heading4">建立刀具更换位置（Z 轴）</para>
     </header>
     <para styleclass="Normal" style="line-height:1.50;"><text style="font-weight:bold;">操作程序</text></para>
-    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; color:#000000;">
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">确认操作门已关闭。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 MDI 模式下通过命令 M558 对中间具夹（工具编号 13）进行索引。 </li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">设置 ATC 维护参数 K61.4=1，禁用 ATC。这将绕过一些联锁，帮助建立刀具更换位置。</li>
@@ -19,9 +19,9 @@
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">将刻度盘加压至 50 毫米，并将刻度盘设置为 0。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">将主轴头移动到 XY 刀具更换位置，如 ATC 维护屏幕所示（参照<link displaytype="text" defaultstyle="false" type="topiclink" href="Establishing-Tool-Change-Posit" target="_blank" style="color:#0000ff;">2.8.1 建立刀具更换位置（X 轴和 Y 轴）</link>）。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">将主轴头移动至 Z 0。</li>
-      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 &quot;手柄 &quot;模式下缓慢移动 Z 轴，直到注意到刻度盘出现偏转。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 &quot;手柄&quot; 模式下缓慢移动 Z 轴，直到注意到刻度盘出现偏转。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">注意此时 Z 轴的机床位置。</li>
-      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">如<link displaytype="text" defaultstyle="false" type="topiclink" href="Establishing-Tool-Change-Posit" anchor="Fig2.3" target="_blank" style="color:#0000ff;"> 图 2.3</link>所示，在 ATC 维护屏幕中输入此值（ATC 维护模式需要打开）。</li>
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">如<link displaytype="text" defaultstyle="false" type="topiclink" href="Establishing-Tool-Change-Posit" anchor="Fig2.3" target="_blank" style="color:#0000ff;"> 图 2.3</link><text style="color:#0000ff;">&#32;</text>所示，在 ATC 维护屏幕中输入此值（ATC 维护模式需要打开）。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">将刀具夹紧在同一位置，并将 Y 轴向机床前方移动。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">参照 ATC 位置关闭操作门。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 MDI 模式下使用 M6 命令检查刀具定位位置是否正确。</li>
@@ -35,18 +35,18 @@
     <para styleclass="Normal" style="text-align:center;"><anchor id="Fig2.5" style="font-size:11pt;"></anchor><text style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160; 建立刀具更换位置（Z 轴）</text></para>
     <para styleclass="Normal" style="text-align:center;"></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
-      <tr style="vertical-align:top">
+      <tr style="vertical-align:middle">
         <td style="width:53px; height:21px; background-color:#dddddd;">
-          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">数量</text></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">数量</text></para>
         </td>
         <td style="width:189px; height:21px; background-color:#dddddd;">
-          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">名称</text></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">名称</text></para>
         </td>
         <td style="width:53px; height:21px; background-color:#dddddd;">
-          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">数量</text></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">数量</text></para>
         </td>
         <td style="width:189px; height:21px; background-color:#dddddd;">
-          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">名称</text></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">名称</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">

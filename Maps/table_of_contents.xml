@@ -198,14 +198,14 @@
       </topicref>
       <topicref type="topic" id="44272478879922" build="ALL" modified="2026-04-29T11:27:07.647Z" icon="0" href="Spindle-Taper-Clean">
         <caption translate="true">主轴锥面清洁</caption>
-      </topicref>
-      <topicref type="topic" id="442725977095669" build="ALL" modified="2026-04-29T11:39:27.356Z" icon="0" href="Tool-Change-Position">
-        <caption translate="true">刀具更换位置</caption>
-        <topicref type="topic" id="442725336397859" build="ALL" modified="2026-04-29T11:50:45.162Z" icon="0" href="Establishing-Tool-Change-Posit">
-          <caption translate="true">建立刀具更换位置（X 轴和 Y 轴）</caption>
-        </topicref>
-        <topicref type="topic" id="442725404082574" build="ALL" modified="2026-04-29T11:56:18.238Z" icon="0" href="Establishing-Tool-Change-Posi2">
-          <caption translate="true">建立刀具更换位置（Z 轴）</caption>
+        <topicref type="topic" id="442725977095669" build="ALL" modified="2026-04-29T11:39:27.356Z" icon="0" href="Tool-Change-Position">
+          <caption translate="true">刀具更换位置</caption>
+          <topicref type="topic" id="442725336397859" build="ALL" modified="2026-04-29T11:50:45.162Z" icon="0" href="Establishing-Tool-Change-Posit">
+            <caption translate="true">建立刀具更换位置（X 轴和 Y 轴）</caption>
+          </topicref>
+          <topicref type="topic" id="442725404082574" build="ALL" modified="2026-04-29T11:56:18.238Z" icon="0" href="Establishing-Tool-Change-Posi2">
+            <caption translate="true">建立刀具更换位置（Z 轴）</caption>
+          </topicref>
         </topicref>
       </topicref>
       <topicref type="topic" id="44270743772581" build="ALL" modified="2026-05-07T16:00:07.324Z" icon="0" href="ATC-Sequence-and-Recovery">
@@ -256,8 +256,8 @@
       <topicref type="topic" id="456391740756504" build="ALL" modified="2026-04-29T16:12:42.891Z" icon="0" href="Confirming-Pallet-Number_2">
         <caption translate="true">3B.3 确认托盘编号</caption>
       </topicref>
-      <topicref type="topic" id="456392366512710" build="ALL" modified="2026-04-29T16:17:55.187Z" icon="0" href="Actuating-APC-Solenoid-and-Sig_2">
-        <caption translate="true">3A.4 启动 APC 电磁阀和确认托盘升降信号</caption>
+      <topicref type="topic" id="456392366512710" build="ALL" modified="2026-06-02T11:33:56.430Z" icon="0" href="Actuating-APC-Solenoid-and-Sig_2">
+        <caption translate="true">3B.4 启动 APC 电磁阀和确认托盘升降信号</caption>
       </topicref>
       <topicref type="topic" id="456394595418260" build="ALL" modified="2026-04-29T16:19:24.619Z" icon="0" href="3B_5-Moving-APC-to-Pallet-1-or">
         <caption translate="true">3B.5 将 APC 移至托盘 1 或 2 端位置</caption>

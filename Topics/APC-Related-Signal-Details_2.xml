@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-04-30T11:21:56.468Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-02T12:03:26.543Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>3B.10 APC 相关信号细节</title>
   <body>
     <header>
       <para styleclass="Heading3">3B.10 APC 相关信号细节</para>
     </header>
-    <para styleclass="Table_E" style="margin-bottom:3px;"><text style="font-size:11pt;">表 &#160;</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER3=3%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER=1%&gt;</var><text style="font-size:11pt;"> &#160; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">电磁阀和限位开关</text></para>
+    <para styleclass="Table_E" style="margin-bottom:3px;"><text style="font-size:11pt;">表 &#160;</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER3=3%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER=1%&gt;</var><text style="font-size:11pt;"> &#160; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">电磁阀和限位开关</text></para>
     <para styleclass="Table_E"><table styleclass="Default" rowcount="7" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
       <thead style="vertical-align:top">
         <td style="width:14%;">
@@ -108,7 +108,7 @@
       </tr>
     </table></para>
     <para styleclass="Table_E"></para>
-    <para styleclass="Table_E" style="margin-bottom:3px;"><text style="font-size:11pt;">表 &#160;</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER3=3%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER%&gt;</var><text style="font-size:11pt;"> &#160; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">储存库侧 APC 操作面板上的开关和指示灯</text></para>
+    <para styleclass="Table_E" style="margin-bottom:3px;"><text style="font-size:11pt;">表 &#160;</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER3=3%&gt;</var><text style="font-size:11pt;">.</text><var style="font-size:11pt;" translate="false">&lt;%HMTABLECOUNTER%&gt;</var><text style="font-size:11pt;"> &#160; </text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">储存库侧 APC 操作面板上的开关和指示灯</text></para>
     <para styleclass="Table_E"><table styleclass="Default" rowcount="7" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
       <thead style="vertical-align:top">
         <td style="width:14%;">
@@ -196,6 +196,6 @@
     </table></para>
     <para styleclass="Table_E"></para>
     <para styleclass="Notes" style="margin-bottom:3px;"><text style="font-size:10pt;">-注-</text></para>
-    <para styleclass="Notes" style="margin-bottom:8px;"><text style="font-size:10pt;">开关和灯的操作细节参照 </text><link displaytype="text" defaultstyle="false" type="topiclink" href="APC-Sequence_2" anchor="PreparingPalletReady" style="font-size:10pt; color:#0000ff;">3B.9.1 C. 准备托盘就绪</link><text style="font-size:10pt; color:#0000ff;">&#32;</text><text style="font-size:10pt;">和</text><text style="font-size:10pt; color:#0000ff;">&#32;</text>&#32;<link displaytype="text" defaultstyle="false" type="topiclink" href="APC-Sequence_2" anchor="CancelPalletReady" style="font-size:10pt; color:#0000ff;">3B.9.1 D. 取消托盘就绪</link><text style="font-size:10pt;">。</text></para>
+    <para styleclass="Notes" style="margin-bottom:8px;"><text style="font-size:10pt;">开关和灯的操作细节参照 </text><link displaytype="text" defaultstyle="false" type="topiclink" href="APC-Sequence_2" anchor="PreparingPalletReady" style="font-size:10pt; color:#0000ff;">3B.9.1 C. 准备托盘就绪</link><text style="font-size:10pt; color:#0000ff;">&#32;</text><text style="font-size:10pt;">和</text><text style="font-size:10pt; color:#0000ff;">&#32;</text><link displaytype="text" defaultstyle="false" type="topiclink" href="APC-Sequence_2" anchor="CancelPalletReady" style="font-size:10pt; color:#0000ff;">3B.9.1 D. 取消托盘就绪</link><text style="font-size:10pt;">。</text></para>
   </body>
 </topic>

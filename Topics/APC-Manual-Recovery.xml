@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-08T16:03:48.759Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-02T11:31:12.787Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>3A.5.3 APC 手动恢复</title>
   <body>
     <header>
@@ -14,12 +14,14 @@
     <para styleclass="Normal"></para>
     <para styleclass="Normal">当 APC 挂断后，按以下步骤将其恢复到待机状态。</para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal">1) &#160;检查 APC 是否在其末端位置，CW 或 CCW 信号必须为关于。如果不是，则通过 APC 维护屏幕将托盘向上移动。</para>
+    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="Normal">检查 APC 是否在其末端位置，CW 或 CCW 信号必须为关于。如果不是，则通过 APC 维护屏幕将托盘向上移动。</li>
+    </list>
     <para styleclass="Normal" style="margin-bottom:8px; margin-left:21px;">参照<link displaytype="text" defaultstyle="false" type="topiclink" href="Actuating-APC-Solenoid-and-Sig" style="color:#0000ff;">3A.4 驱动 APC 电磁阀和信号确认</link><text style="color:#0000ff;">&#32;</text>，了解托盘<text style="color:#0000ff;">&#32;</text>在维护模式下的上/下/CW/CCW 移动。</para>
-    <list id="0" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="margin-bottom:8px; font-family:SimSun; font-size:11pt; color:#000000;">
       <li styleclass="Normal" style="margin-bottom:8px;">将所需的托板 1（CW）或托板 2（CCW）移到工作台一侧。</li>
     </list>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Normal" style="margin-bottom:8px; font-family:Arial; font-size:11pt; color:#000000;">
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Normal" style="margin-bottom:8px; font-family:SimSun; font-size:11pt; color:#000000;">
       <li styleclass="Normal" style="margin-bottom:8px;">将托板向下移动。</li>
       <li styleclass="Normal" style="margin-bottom:8px;">选择手柄模式，将主轴/轴移动到工作区 Y-400 至 Y0.0。</li>
     </list>

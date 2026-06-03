@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-04T14:23:35.904Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-02T14:51:41.051Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>M 代码及相关操作</title>
   <body>
     <header>
@@ -625,19 +625,19 @@
         </td>
       </tr>
     </table></para>
-    <list id="0" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; page-break-before:always; font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">
+    <list id="0" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; page-break-before:always; font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; page-break-before:always;"><text style="font-weight:bold;">确认输入信号为 1 / 0 并完成 M 命令的功能</text></li>
     </list>
     <para styleclass="Normal" style="margin-bottom:10px;">通过 M 代码将输出信号变为 1 或 0 后，该功能用于确认同步输入信号为 1 或 0 并完成 M 命令。可以为每个输出信号设置相应的机床参数，或者设置为 1 以在确认输入信号变为 1/0 后结束 M 命令，或者设置为 0 以在不确认输入信号变为 1/0 的情况下结束 M 命令。</para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">
-      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;"><text style="font-weight:bold;">将输出信号变为零的功能。</text></li>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;"><text style="font-weight:bold;">将输出信号变为零的功能</text></li>
     </list>
     <para styleclass="Normal" style="margin-bottom:10px;">当发出 M 代码命令将输出信号变为 1 时，该功能用于在完成后将输出信号从 1 变为 0。完成 M 代码要么是确认输入信号为 1/0，要么是设定时限，要么是两者兼而有之。</para>
-    <list id="2" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">
+    <list id="2" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="3" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;"><text style="font-weight:bold;">操作完成延迟时间</text></li>
     </list>
     <para styleclass="Normal" style="margin-bottom:10px;">这样，M 代码结束时的操作完成时间就可以延迟。</para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">
+    <list id="3" type="ol" listtype="decimal" formatstring="&#42;&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; font-weight:bold; color:#000000;">
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;"><text style="font-weight:bold;">超时</text></li>
     </list>
     <para styleclass="Normal">如果选择了确认输入信号状态为 1 或 0 的功能，且输出信号变为 1 后输入信号未发生变化，则会在指定时限结束时触发机床警报。使用机床参数设置确认输入信号变为 1 或 0 所需的时限。计时单位为秒。</para>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="Needs Review" modified="2026-04-29T13:57:07.732Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" status="Needs Review" modified="2026-06-02T11:20:20.582Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>ATC 人工恢复</title>
   <body>
     <header>
@@ -15,14 +15,14 @@
     </list>
     <para styleclass="Normal" style="margin-bottom:10px; page-break-before:always;"><text style="font-weight:bold;">案例 1：</text></para>
     <para styleclass="Normal" style="margin-bottom:10px;">如果主轴处于松开模式。</para>
-    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; color:#000000;">
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">选择<text style="font-weight:bold;">[手柄]</text>模式，将 Z 轴抬起。将轴移出 ATC 换刀区。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">按下操作面板上的<text style="font-weight:bold;">[ALARM RESET]</text>按钮清除警报。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">在 MDI 模式下，输入 M555 并按下循环启动按钮，使 ATC 门关闭。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">检查主轴中的刀具编号。可在维护屏幕中进行检查。</li>
     </list>
-    <list id="2" type="ol" listtype="lower-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
-      <li styleclass="Normal" style="margin-bottom:10px; margin-left:24px;">如果刀具编号不是 0，例如 1： 检查 1 号具夹中是否有刀具。如果刀具存在，则取出刀库中的刀具并将其夹紧在主轴上。如果具夹 1 为空，且主轴刀具与刀具 1 夹紧。恢复正常操作。</li>
+    <list id="2" type="ol" listtype="lower-roman" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:10px; margin-left:24px;">如果刀具编号不是 0，例如 1：检查 1 号具夹中是否有刀具。如果刀具存在，则取出刀库中的刀具并将其夹紧在主轴上。如果具夹 1 为空，且主轴刀具与刀具 1 夹紧。恢复正常操作。</li>
       <li styleclass="Normal" style="margin-bottom:10px; margin-left:24px;">如果维护屏幕中显示的刀具编号为 0，则无法进行循环启动，因为会出现警报信息。</li>
     </list>
     <para styleclass="Normal" style="text-align:center;"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
@@ -39,7 +39,7 @@
           <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">A047</text></para>
         </td>
         <td style="width:350px;">
-          <para styleclass="Normal" style="margin-top:3px; margin-right:3px; margin-bottom:3px; margin-left:3px;"><text style="font-size:10pt;">主轴工具的具夹数超出范围（1 - 最大值）或当前主轴工具 = 0。 从主轴上卸下工具；通过 M6 命令从 ATC 刀库装入工具。 </text></para>
+          <para styleclass="Normal" style="margin-top:3px; margin-right:3px; margin-bottom:3px; margin-left:3px;"><text style="font-size:10pt;">主轴工具的具夹数超出范围（1 - 最大值）或当前主轴工具 = 0。从主轴上卸下工具；通过 M6 命令从 ATC 刀库装入工具。 </text></para>
         </td>
       </tr>
     </table></para>
@@ -49,8 +49,8 @@
     <para styleclass="Normal" style="margin-bottom:10px;">在维护模式下，输入指定刀具编号，并用该指定刀具夹紧主轴。确保刀库盘上指定刀具的具夹为空。只有这样才能进行刀具更换。</para>
     <para styleclass="Normal" style="margin-bottom:10px;"><text style="font-weight:bold;">案例 2：</text></para>
     <para styleclass="Normal" style="margin-bottom:10px;">如果主轴处于夹紧模式。</para>
-    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:Arial; font-size:11pt; color:#000000;">
-      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">选择<text style="font-weight:bold;">[HANDLE] </text>模式，并将 Y 轴向前方<text style="font-weight:bold;">(-)</text>方向移动，使轴离开换刀区。</li>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px; font-family:SimSun; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">选择<text style="font-weight:bold;">[HANDLE]</text>模式，并将 Y 轴向前方<text style="font-weight:bold;">(-)</text>方向移动，使轴离开换刀区。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-bottom:10px; margin-left:24px;">按下操作面板上的<text style="font-weight:bold;">[ALARM RESET]</text>按钮清除警报。</li>
       <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;">在 MDI 模式下，输入 M555 并按下循环启动按钮以关闭 ATC 门。</li>
     </list>

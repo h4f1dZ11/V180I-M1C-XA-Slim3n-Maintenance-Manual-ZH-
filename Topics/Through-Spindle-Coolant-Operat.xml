@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-19T14:21:15.775Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-02T15:27:50.248Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>贯穿主轴冷却液运行时序表</title>
   <body>
     <header>
@@ -60,7 +60,7 @@
         </td>
       </tr>
     </table></para>
-    <para styleclass="Table_E" style="text-align:left; margin-bottom:11px;"></para>
+    <para styleclass="Table_E" style="text-align:left;"></para>
     <para styleclass="Notes" style="margin-bottom:10px;"><text style="font-size:10pt;">-注-</text></para>
     <para styleclass="Notes" style="margin-bottom:10px;"><text style="font-size:10pt;">设置机床参数 07051，可指定在冷却液停止过程后是否停止贯穿主轴冷却液泵。该功能在冷却液排放过程中指定 M319 时使用。</text></para>
     <para styleclass="Normal"></para>

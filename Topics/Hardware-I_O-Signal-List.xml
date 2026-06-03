@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-04T13:35:36.669Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-02T14:50:18.950Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>硬件输入/输出信号列表</title>
   <body>
     <header>
       <para styleclass="Heading3">硬件输入/输出信号列表</para>
     </header>
-    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:&apos;Arial Baltic&apos;; font-size:11pt; color:#000000;">有八个输出信号用于操作外围设备，八个输入信号用于确认外围设备的操作。这些输入/输出信号由 M 代码命令激活，便于操作外围设备</text><text styleclass="" style="font-family:&apos;Arial Unicode MS&apos;; font-size:11pt; color:#000000;">。</text></para>
-    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">输入信号</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">有八个输出信号用于操作外围设备，八个输入信号用于确认外围设备的操作。这些输入/输出信号由 M 代码命令激活，便于操作外围设备。</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">输入信号</text></para>
     <para styleclass="Normal" style="margin-bottom:19px;"><table styleclass="Default" rowcount="9" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
       <thead style="vertical-align:top">
         <td style="width:25%;">
@@ -109,7 +109,7 @@
         </td>
       </tr>
     </table></para>
-    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">输出信号</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:17px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:avoid; border:none; tabstops:169px left ;"><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">输出信号</text></para>
     <para styleclass="Normal"><table styleclass="Default" rowcount="9" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
       <thead style="vertical-align:top">
         <td style="width:25%;">
