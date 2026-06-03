@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
-<topic template="Default" modified="2026-05-25T10:42:13.812Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+<topic template="Default" modified="2026-06-03T14:50:59.858Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
   <title>Manuals and How to Use Them</title>
   <body>
     <header>
@@ -91,7 +91,7 @@
       </tr>
     </table></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-注-</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">-注-</text></para>
     <para styleclass="Normal"><text style="font-size:10pt;">由于机床配置和规格的不同，本说明书的描述或其他详细信息可能与实际机床有所不同。</text></para>
     <para styleclass="Normal" style="text-align:justify; line-height:1.50; page-break-before:always;"></para>
   </body>

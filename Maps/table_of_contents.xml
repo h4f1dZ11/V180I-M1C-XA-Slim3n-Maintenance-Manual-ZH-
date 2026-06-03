@@ -2,7 +2,7 @@
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
   <topicref type="topic" id="461626896131826" build="ALL" modified="2026-05-20T16:28:40.201Z" icon="2" href="Safety_2">
     <caption translate="true">第1章  安全</caption>
-    <topicref type="topic" id="461628112007519" build="MECHANICAL" modified="2026-05-20T16:28:47.933Z" icon="0" href="1-Safety-Precautions_2">
+    <topicref type="topic" id="461628112007519" build="ALL" modified="2026-06-03T14:57:31.218Z" icon="0" href="1-Safety-Precautions_2">
       <caption translate="true">安全注意事项</caption>
       <topicref type="topic" id="461625125136757" build="ALL" modified="2026-05-20T16:28:52.159Z" icon="0" href="1_1-Operators-Checks_2">
         <caption translate="true">操作员检查</caption>
@@ -29,7 +29,7 @@
         <caption translate="true">处理危险和有毒材料</caption>
       </topicref>
     </topicref>
-    <topicref type="topic" id="461624962784458" build="MECHANICAL" modified="2026-05-20T16:29:30.464Z" icon="0" href="2-Warning-Labels_2">
+    <topicref type="topic" id="461624962784458" build="ALL" modified="2026-06-03T14:57:35.205Z" icon="0" href="2-Warning-Labels_2">
       <caption translate="true">警告标签</caption>
       <topicref type="topic" id="461627236991932" build="ALL" modified="2026-05-20T16:29:35.113Z" icon="0" href="2_1-Signal-Word-Definitions_2">
         <caption translate="true">信号词语定义</caption>
@@ -59,7 +59,7 @@
         </topicref>
       </topicref>
     </topicref>
-    <topicref type="topic" id="461625610755868" build="MECHANICAL" modified="2026-05-20T16:30:17.158Z" icon="0" href="3-Safety-Devices_2">
+    <topicref type="topic" id="461625610755868" build="ALL" modified="2026-06-03T14:57:40.620Z" icon="0" href="3-Safety-Devices_2">
       <caption translate="true">安全装置</caption>
       <topicref type="topic" id="461626247395069" build="ALL" modified="2026-05-20T16:30:21.101Z" icon="0" href="3_1-Emergency-Stop-Switch_2_2">
         <caption translate="true">“紧急停止”开关</caption>
@@ -70,10 +70,10 @@
       <topicref type="topic" id="461624924233058" build="ALL" modified="2026-05-20T16:30:29.024Z" icon="0" href="4_1-Area-Surrounding-Machine_2">
         <caption translate="true">机床周遭区域</caption>
       </topicref>
-      <topicref type="topic" id="461628138697975" build="ELECTRICAL" modified="2026-05-20T16:30:32.849Z" icon="0" href="4_2-Electrical-System_2">
+      <topicref type="topic" id="461628138697975" build="ALL" modified="2026-06-03T14:57:45.099Z" icon="0" href="4_2-Electrical-System_2">
         <caption translate="true">电气系统</caption>
       </topicref>
-      <topicref type="topic" id="461627410280927" build="SOFTWARE" modified="2026-05-20T16:30:40.187Z" icon="0" href="4_3-Parameters_2">
+      <topicref type="topic" id="461627410280927" build="ALL" modified="2026-06-03T14:58:14.476Z" icon="0" href="4_3-Parameters_2">
         <caption translate="true">参数</caption>
       </topicref>
       <topicref type="topic" id="461626008703056" build="ALL" modified="2026-05-20T16:30:45.472Z" icon="0" href="4_4-Inside-the-Machining-Chamb_2">
@@ -120,7 +120,7 @@
       </topicref>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432636229749642" build="ELECTRICAL,MECHANICAL" modified="2026-04-28T14:11:05.314Z" icon="0" href="Chapter-2-Safety-Devices">
+  <topicref type="topic" id="432636229749642" build="ALL" modified="2026-06-03T14:58:28.302Z" icon="0" href="Chapter-2-Safety-Devices">
     <caption translate="true">第2章 器控制器</caption>
     <topicref type="topic" id="432638852357829" build="ALL" modified="2026-04-28T15:49:31.473Z" icon="0" href="1-Overview-of-Machine-Controller">
       <caption translate="true">概述</caption>
@@ -159,7 +159,7 @@
       </topicref>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432725178719695" build="MECHANICAL,SPINDLE" modified="2026-04-29T09:03:38.587Z" icon="0" href="Chapter-3-Machine-Maintenance">
+  <topicref type="topic" id="432725178719695" build="ALL" modified="2026-06-03T14:58:35.805Z" icon="0" href="Chapter-3-Machine-Maintenance">
     <caption translate="true">第3章 机床维护</caption>
     <topicref type="topic" id="442722183649480" build="ALL" modified="2026-04-29T09:04:37.201Z" icon="0" href="Maintenance-Screen">
       <caption translate="true">维护屏幕</caption>
@@ -606,7 +606,7 @@
       <caption translate="true">夹具液压单元机械装置</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="433352802053113" build="MECHANICAL" modified="2026-05-05T14:05:17.024Z" icon="0" href="Chapter-12-Pneumatic-Unit">
+  <topicref type="topic" id="433352802053113" build="ALL" modified="2026-06-03T14:58:46.348Z" icon="0" href="Chapter-12-Pneumatic-Unit">
     <caption translate="true">第13章 气动系统</caption>
     <topicref type="topic" id="433352206343049" build="ALL" modified="2026-05-05T14:06:06.744Z" icon="0" href="Overview-of-Pneumatic-System">
       <caption translate="true">概述</caption>
@@ -654,7 +654,7 @@
       </topicref>
     </topicref>
   </topicref>
-  <topicref type="topic" id="433414481940760" build="MECHANICAL" modified="2026-05-05T15:26:50.804Z" icon="0" href="Chapter-14-Cutting-Fluid-Supply-Unit-and-Tank">
+  <topicref type="topic" id="433414481940760" build="ALL" modified="2026-06-03T14:58:51.035Z" icon="0" href="Chapter-14-Cutting-Fluid-Supply-Unit-and-Tank">
     <caption translate="true">第15章 切削液供应装置和储液罐</caption>
     <topicref type="topic" id="433416427806559" build="ALL" modified="2026-05-05T15:28:35.174Z" icon="0" href="Overview-of-Cutting-Fluid-Supply-Unit">
       <caption translate="true">概述</caption>
@@ -705,14 +705,14 @@
       </topicref>
     </topicref>
   </topicref>
-  <topicref type="topic" id="432994078941755" build="MECHANICAL,SOFTWARE" modified="2026-05-06T08:35:57.082Z" icon="0" href="Chapter-15-Splash-Guard">
+  <topicref type="topic" id="432994078941755" build="ALL" modified="2026-06-03T14:58:56.630Z" icon="0" href="Chapter-15-Splash-Guard">
     <caption translate="true">第16章 防溅板</caption>
     <topicref type="topic" id="432995221741530" build="ALL" modified="2026-05-06T08:37:17.077Z" icon="0" href="Overview-of-Splash-Guard">
       <caption translate="true">概述</caption>
-      <topicref type="topic" id="4329145877129" build="MECHANICAL" modified="2026-05-06T09:43:52.451Z" icon="0" href="Component-Name-of-Splash-Guard">
+      <topicref type="topic" id="4329145877129" build="ALL" modified="2026-06-03T14:59:06.394Z" icon="0" href="Component-Name-of-Splash-Guard">
         <caption translate="true">组件名称</caption>
       </topicref>
-      <topicref type="topic" id="432997284356616" build="MECHANICAL" modified="2026-05-06T09:46:15.431Z" icon="0" href="Wiring-of-Splash-Guard">
+      <topicref type="topic" id="432997284356616" build="ALL" modified="2026-06-03T14:59:02.307Z" icon="0" href="Wiring-of-Splash-Guard">
         <caption translate="true">布线</caption>
       </topicref>
     </topicref>

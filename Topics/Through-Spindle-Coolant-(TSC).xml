@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-06-03T08:35:28.559Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-03T12:17:49.765Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>贯穿主轴冷却液 (TSC)</title>
   <body>
     <header>
@@ -13,7 +13,7 @@
       <li styleclass="Normal" style="margin-bottom:19px;">TSC 3.0MPa (旋风分离器 + 在线过滤器 - 仅适用于水基冷却液)</li>
     </list>
     <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="TSC_chp15.png" imagestyleclass="Default" scale="18.00%" width="325" height="506" styleclass="Image Caption" figurelistinclude="0"></image></para>
-    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER15=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160; 贯穿主轴</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> 冷却液 (TSC)</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">图 &lt;%HMFIGURECOUNTER15=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160; 贯穿主轴</text><text styleclass="" style="font-family:SimSun; font-size:11pt; color:#000000;">冷却液 (TSC)</text></para>
     <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
       <tr style="vertical-align:middle">
         <td style="width:53px; height:21px; background-color:#dddddd;">
@@ -31,60 +31,60 @@
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">入口（半清洁）</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">入口（半清洁）</text></para>
         </td>
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">5</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">5</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">主泵</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">主泵</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">旋风过滤装置</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">旋风过滤装置</text></para>
         </td>
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">6</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">6</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">TSC 泵</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">TSC 泵</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">出口</text></para>
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(清洁；至清洁槽）</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">出口</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">(清洁；至清洁槽）</text></para>
         </td>
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">7</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">7</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">流量开关 LS193</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">流量开关 LS193</text></para>
         </td>
       </tr>
       <tr style="vertical-align:top">
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">排水口</text></para>
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(至切屑桶或 LUCC）</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">排水口</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">(至切屑桶或 LUCC）</text></para>
         </td>
         <td style="vertical-align:middle; width:53px; height:22px;">
-          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
         </td>
         <td style="vertical-align:middle; width:189px; height:22px;">
-          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">至主轴旋转接头</text></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:SimSun; font-size:10pt; color:#000000;">至主轴旋转接头</text></para>
         </td>
       </tr>
     </table></para>

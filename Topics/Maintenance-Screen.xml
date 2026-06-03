@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2026-06-02T11:02:46.245Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2026-06-03T09:47:05.228Z" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>维护屏幕</title>
   <body>
     <header>
@@ -12,7 +12,7 @@
       <li styleclass="Normal" style="line-height:1.50;">ATC 维护屏幕</li>
       <li styleclass="Normal" style="line-height:1.50;">APC 维护屏幕（选配）</li>
       <li styleclass="Normal" style="line-height:1.50;">夹具设置屏幕和工作设置程序（选配）</li>
-      <li styleclass="Normal" style="line-height:1.50;">润滑维护屏幕<tab /><tab /></li>
+      <li styleclass="Normal" style="line-height:1.50;">润滑维护屏幕</li>
       <li styleclass="Normal" style="line-height:1.50;">用户 I/O（电磁阀）使用程序（选配）</li>
       <li styleclass="Normal" style="line-height:1.50;">刀具破损传感器装置设置程序（选配）</li>
     </list>

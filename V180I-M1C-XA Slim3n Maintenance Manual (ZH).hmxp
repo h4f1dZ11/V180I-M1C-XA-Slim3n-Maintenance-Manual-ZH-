@@ -80,8 +80,8 @@
       <config-value name="versionmajor">1</config-value>
       <config-value name="versionminor">0</config-value>
       <config-value name="versionbuild">0</config-value>
-      <config-value name="lcid">en-us</config-value>
-      <config-value name="charset">ANSI_CHARSET</config-value>
+      <config-value name="lcid" translate="true">zh-sg</config-value>
+      <config-value name="charset" translate="true">GB2312_CHARSET</config-value>
       <config-value name="deffont">font-family:Tahoma; font-size:10pt; color:#000000;</config-value>
       <config-value name="autohelpstart">0</config-value>
       <config-value name="autohelpincrement">1</config-value>
@@ -93,9 +93,9 @@
         <config-value name="ELECTRICAL">ELECTRICAL</config-value>
         <config-value name="GRAPHITE">GRAPHITE</config-value>
         <config-value name="MECHANICAL">MECHANICAL</config-value>
+        <config-value name="NOTREQUIRED">NOTREQUIRED</config-value>
         <config-value name="SOFTWARE">SOFTWARE</config-value>
         <config-value name="SPINDLE">SPINDLE</config-value>
-        <config-value name="NOTREQUIRED">NOTREQUIRED</config-value>
       </config-group>
       <config-value name="openchildreadonly">1</config-value>
       <config-value name="tidyxml">1</config-value>
@@ -111,9 +111,10 @@
       </config-group>
       <config-value name="make0include">CHM</config-value>
       <config-value name="make0status">*</config-value>
-      <config-value name="title" translate="true">Mill-Turn Maintenance Manual</config-value>
-      <config-value name="summary" translate="true">V18321I-M1E-XA</config-value>
+      <config-value name="title" translate="true">Slim3n Maintenance Manual</config-value>
+      <config-value name="summary" translate="true">V180I-M1C-XA</config-value>
       <config-value name="searchpath">.\Graphics\Ch 1 Safety\Slim3n\;.\Graphics\Ch 2 Machine Controller\Slim3n\;.\Graphics\Ch 3 Machine Maintenance\Slim3n\;.\Graphics\Ch 4 Spindle Head\Slim3n\;.\Graphics\Ch 5 Feed Axis\Slim3n\;.\Graphics\Ch 6 Automatic Tool Changer\Slim3n\;.\Graphics\Ch 7 APC Pneumatic Driven\Slim3n\;.\Graphics\Ch 8 APC Servo-M Driven\Slim3n\;.\Graphics\Ch 9 Spindle Cooler\Slim3n\;.\Graphics\Ch 10 Automatic Grease Supply Unit\Slim3n\;.\Graphics\Ch 11 Spindle Hydraulic Unit\Slim3n\;.\Graphics\Ch 12 Fixture Hydraulic Unit (option)\Slim3n\;.\Graphics\Ch 13 Pneumatic System\Slim3n\;.\Graphics\Ch 14 Chip Disposal and Conveyor\Slim3n\;.\Graphics\Ch 15 Cutting Fluid Supply Unit\Slim3n\;.\Graphics\Ch 16 Splash Guard\Slim3n\;.\Graphics\Ch 17 Mist Collector\Slim3n\;.\Graphics\Ch 18 Air Dryer\Slim3n\</config-value>
+      <config-value name="bidimode">0</config-value>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
@@ -278,20 +279,7 @@ Help
   </config>
   <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
   <project-files>
-    <file href="Topics/*.xml" build="ALL" filetype="topic">
-      <file-mod href="Chapter-2-Safety-Devices.xml" build="ELECTRICAL,MECHANICAL"/>
-      <file-mod href="Chapter-3-Machine-Maintenance.xml" build="MECHANICAL,SPINDLE"/>
-      <file-mod href="Component-Name-of-Splash-Guard.xml" build="MECHANICAL"/>
-      <file-mod href="Wiring-of-Splash-Guard.xml" build="MECHANICAL"/>
-      <file-mod href="Chapter-12-Pneumatic-Unit.xml" build="MECHANICAL"/>
-      <file-mod href="Chapter-14-Cutting-Fluid-Supply-Unit-and-Tank.xml" build="MECHANICAL"/>
-      <file-mod href="Chapter-15-Splash-Guard.xml" build="MECHANICAL,SOFTWARE"/>
-      <file-mod href="1-Safety-Precautions_2.xml" build="MECHANICAL"/>
-      <file-mod href="2-Warning-Labels_2.xml" build="MECHANICAL"/>
-      <file-mod href="3-Safety-Devices_2.xml" build="MECHANICAL"/>
-      <file-mod href="4_2-Electrical-System_2.xml" build="ELECTRICAL"/>
-      <file-mod href="4_3-Parameters_2.xml" build="SOFTWARE"/>
-    </file>
+    <file href="Topics/*.xml" build="ALL" filetype="topic"/>
     <file href="Topics/Non-TOC/*.xml" build="ALL" filetype="topic"/>
     <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
   </project-files>
